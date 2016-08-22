@@ -1,0 +1,78 @@
+// footer.scss
+@import "vars/footer.vars";
+
+/* FOOTER */
+#footer{
+    clear: both;
+    margin-top: 30px;
+    background: $footer-outside-bg;
+    @include clearfix();
+    .container{
+        @include container-layout-variant($footer-color, $footer-bg);   
+    } 
+    ul {
+        li {
+            a {
+                color: $footer-color;
+                &:hover{color: $link-hover-color;}
+            }
+        }
+    }
+    &.footer-container{
+        .#{$block-selector} {
+            .#{$block-heading-selector}{
+                position: relative;
+                font-size: 16px;
+                font-weight: 400;
+                margin: 25px 0;
+                padding-bottom: 18px;
+                color: $white;
+                text-transform: uppercase;
+                @include rtl-text-align-left();
+                &:before {
+                    position: absolute;
+                    content: "";
+                    bottom: 0;
+                    right: inherit;
+                    width: 25px;
+                    height: 1px;
+                    background-color: $theme-color-default;
+                    @include rtl-left(0);
+                }
+                a{
+                    color: $white;
+                    font-size: 16px;
+                    &:hover {
+                        color: $theme-color-default;
+                    }
+                }
+            }
+        }
+    }
+    .footer-block {
+        ul {
+            li {
+                padding: 0;
+                margin-bottom: 6px;
+            }
+        }
+    }
+    .ApColumn{
+    	z-index: 2;
+	}
+	.ApHtml {line-height: 24px;}
+}
+.footer-copyright{
+    .block {
+        margin-bottom: 0 !important;
+    }
+    .copyright {
+        margin-top: 9px;
+        margin-bottom: 0;
+    }
+}
+#index {
+    #footer {
+        margin-top: 0;
+    }
+}

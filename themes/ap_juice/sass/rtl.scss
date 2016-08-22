@@ -1,0 +1,89 @@
+@import "compass";
+@import "theme_variables";
+// Core variables and mixins
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+@import "bootstrap/rtl/grid";
+// Utility classes
+@import "bootstrap/rtl/utilities";
+@import "bootstrap/rtl/responsive-utilities";
+
+/********************************************************
+			Right to Left Styles
+********************************************************/
+
+* {
+	direction: rtl !important;
+}
+.row:before, .row:after {display: inherit;}
+#page {
+	text-align: right !important;
+}
+
+.rtl .bg-fullwidth:before {
+	margin-right: -1648px;
+	margin-left: inherit;
+}
+
+// paneltool
+
+.panelbutton {
+    -webkit-box-shadow: -3px 1px 2px #888888;
+    box-shadow: -3px 1px 2px #888888;
+ }
+.fancybox-margin {margin-right: 0px!important;}
+
+.block .list-block li {
+	a {
+		&:before {
+			content: "\f105";
+		}
+	}
+}
+.accessories-block ul li{float: right !important;}
+
+// owlcarousel
+.owl-theme .owl-controls .owl-buttons div {
+	left: 15px;
+	right: inherit;
+	&.owl-next{
+		left: 42px;
+		right: inherit;
+	}
+}
+
+// product-detail
+#view_scroll_left {
+	&:before {
+		content: "\f054";
+	}
+}
+#view_scroll_right {
+	&:before {
+		content: "\f053";
+	}
+}
+// menu
+#leo-megamenu .navbar-nav > li {
+	&.aligned-right {
+		.dropdown-menu {
+			left: 0;
+			right: inherit;
+		}
+	}
+	&.aligned-left {
+		.dropdown-menu  {
+			right: 0;
+			left: inherit;
+		}
+	}
+}
+#leo-megamenu .dropdown-submenu .dropdown-menu {
+	right: 100% !important;
+}
+
+// order
+p.payment_module a.bankwire {
+	background-position: 96% 12px !important;
+}

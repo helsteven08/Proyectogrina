@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blockcategories}ap_juice>blockcategories_8f0ed7c57fca428f7e3f8e64d2f00918'] = 'Categorías bloque';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_15a6f5841d9e4d7e62bec3319b4b7036'] = 'Añade un bloque con las categorías de productos.';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_23e0d4ecc25de9b2777fdaca3e2f3193'] = 'Profundidad máxima: Número no válido.';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_0cf328636f0d607ac24a5c435866b94b'] = 'HTML dinámico: opción no válida.';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_f4f70727dc34561dfde1a3c529b6205c'] = 'Ajustes';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_1379a6b19242372c1f23cc9adedfcdd6'] = 'Raíz Categoría';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_c6d333d07d30f7b4c31a94bbd510bf88'] = 'Seleccione la categoría que se muestra en el bloque. La categoría actual es el que el visitante se encuentra navegando.';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_89b278a71f2be5f620307502326587a0'] = 'Categoría Casa';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_62381fc27e62649a16182a616de3f7ea'] = 'Categoría actual';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_52b68aaa602d202c340d9e4e9157f276'] = 'Categoría Superior';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_f225631c1a6f71e99cc779f6bbf06dd4'] = 'Categoría corriente, a menos que no tiene subcategorías, en cuyo caso se utiliza la categoría padre de la categoría actual';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_19561e33450d1d3dfe6af08df5710dd0'] = 'Profundidad máxima';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_584d4e251b6f778eda9cfc2fc756b0b0'] = 'Ajuste la profundidad máxima de la categoría sub-niveles que se muestran en este bloque (0 = infinito).';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_971fd8cc345d8bd9f92e9f7d88fdf20c'] = 'Dinámica';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_c10efcaa2a8ff4eedaa3538fff78eb53'] = 'Activar el modo dinámico (animado) para la categoría sub-niveles.';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activado';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_b9f5c797ebbf55adccdd8539a65a0241'] = 'Discapacitado';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_6b46ae48421828d9973deec5fa9aa0c3'] = 'Clase';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_54e4f98fb34254a6678f0795476811ed'] = 'Por nombre';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_883f0bd41a4fcee55680446ce7bec0d9'] = 'Por posición';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_06f1ac65b0a6a548339a38b348e64d79'] = 'Orden de clasificación';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_e3cf5ac19407b1a62c6fccaff675a53b'] = 'Descendente';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_cf3fb1ff52ea1eed3347ac5401ee7f0c'] = 'Ascendente';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_5f73e737cedf8f4ccf880473a7823005'] = '¿Cuántas columnas de pie de página le gustaría?';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_af1b98adf7f686b84cd0b443e022b7a0'] = 'Categorías';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_footer_af1b98adf7f686b84cd0b443e022b7a0'] = 'Categorías';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_admin_63239117f39d923b2e407620fc1fa5b5'] = 'En el tema predeterminado, estas imágenes se mostrarán en el menú horizontal superior; pero solo si la categoría está en el primer nivel (ver módulo Menú horizontal superior para más información).';
+$_MODULE['<{blockcategories}ap_juice>blockcategories_admin_eea317348d82718d49f9a79189dc0f93'] = 'Miniaturas del Menú';

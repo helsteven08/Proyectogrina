@@ -1,0 +1,59 @@
+.carousel-control{
+  z-index: 10;
+  height: 24px;
+  border: 1px solid #DDD;
+  line-height: 20px;
+  top: -60px;
+  background: #FFF !important; 
+  @include border-radius(2px);
+  @include rtl-left(auto);
+  @include rtl-right(0);
+  &.left{
+    @include rtl-right(30px);
+  }
+  &:hover{
+    background: $theme-color-default !important;
+    color: #FFF;
+    border-color: $theme-color-default;
+  }
+}
+.form-control {
+  @include border-radius(0);
+  &:focus{
+    @include box-shadow(none);
+  }
+}
+//@mixin button-variant-outline($color, $background, $border, $colorhover, $bghover, $borderhover ) {
+.btn-inverse{
+  @include button-variant-outline($white, $theme-color-default, $theme-color-default, $white, $theme-color-secondary , $theme-color-secondary);
+} 
+.btn-outline{
+  @include button-variant-outline($white, $theme-color-secondary, $theme-color-secondary, $white, $theme-color-default, $theme-color-default);
+}
+.btn{
+  text-transform: uppercase;
+  color: $white;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: $font-family-tertiary;
+  border: none;
+  line-height: 24px;
+  padding: 8px 20px;
+  @include border-radius(0);
+  @include transition (all 0.3s ease-out 0s);
+  &:hover, &:active, &:focus, &:visited {
+    outline: none !important;
+    @include box-shadow(none);
+  }
+  span{
+    display: inline-block;
+  }
+  /* &.disabled{
+    padding: 0 20px;
+    color: $theme-color-default;
+  } */
+}
+
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"]{
+  margin: 2px 4px 0 0 !important;
+}

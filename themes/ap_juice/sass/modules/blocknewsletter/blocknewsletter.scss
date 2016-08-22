@@ -1,0 +1,67 @@
+@import "compass";
+@import "theme_variables";
+
+/* Block newsletter */
+#columns #newsletter_block_left {	 
+	.success_inline, .warning_inline {
+		@include rtl-text-align-left();
+		padding: 1px 0 0 0;
+		margin-bottom: -19px;	
+	}
+	.success_inline	{
+		color: #418B19;
+	}
+	.warning_inline {
+		color: #f13340;
+	}
+}
+/* Block newsletter footer */
+#newsletter_block_left {
+	.title_block {
+		color: $white;
+	}
+	form{
+		width: 100%;
+		.form-group {margin: 0; position: relative;}
+		input[type="text"]{
+			color: #999;
+			height: 40px;
+			width: 81%;
+			display: table-cell;
+			padding: 0 20px;
+			font-size: $font-size-base;
+			border: 1px solid $white;
+			background-color: $white;
+			@include rounded-corners (0);
+			@include box-shadow(none);
+			@include rtl-float-left();
+		}
+		.btn{
+			height: 40px;
+			padding: 0 12px;
+			background: $white;
+			border: none;
+			color: $black;
+			font-size: 16px;
+			@include border-radius(0);
+			@include rtl-float-left();
+			&:hover,
+			&:focus {
+				color: $theme-color-default;
+			}
+			span {display: none;}
+		}
+	}
+	.warning_inline { 
+		color: #f13340;  
+		clear: both;
+	}
+	.success_inline	{
+		color: #418B19;
+	}
+	.new-des {
+		color: #aaa;
+		margin: 6px 0 30px;
+		line-height: 24px;
+	}
+}

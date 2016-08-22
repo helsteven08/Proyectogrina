@@ -1,0 +1,231 @@
+// modules.scss
+
+@import "vars/modules.vars";
+// top bar module dropdown
+.popup-over{
+    position: relative;
+    z-index: 999;
+    padding: 0 15px;
+    @include rtl-float-right();
+    .popup-title{
+        text-transform: none;
+        @include rtl-padding(13px,10px,13px,0);
+        /* @include rtl-border-left(#eaeaea);
+        @include rtl-border-style(none,none,none,solid);
+        @include rtl-border-width(0,0,0,1px); */
+        &:before{
+            content: "\f107";
+            position: absolute;
+            top: 16px;
+            @include rtl-right(13px);
+            font-family: $font-icon;
+        }
+        &:after {
+            position: absolute;
+            content: "";
+            top: 18px;
+            height: 15px;
+            width: 1px;
+            background-color: #666666;
+            @include rtl-left(0);
+        }
+        a {
+            color: $black;
+            font-size: 16px;
+            &:hover {
+                color: $theme-color-default;
+            }
+        }
+    }
+    .popup-content{
+        padding: 10px 15px;
+        position: absolute;
+        top: 52px;
+        background: $white;
+        border: $main-border;
+        min-width: 160px;
+        z-index: 9;
+        display: none;
+        @include rtl-right(0);
+        @include transition(opacity 0.3s linear 0s);
+        a{
+            color: $text-color;
+            display: inline-block;
+            &:hover{
+                color: $link-hover-color;
+            }
+            .fa {
+                width: 12px;
+                text-align: center;
+                @include rtl-margin-right(10px);
+            }
+        }
+    }
+    ul {
+        margin-bottom: 0;
+        li {
+            display: block;
+        }
+    }
+    &:hover, &.open{
+        cursor: pointer; 
+        .popup-title {
+            color: $theme-color-default;
+        }
+        .popup-content{
+            display: block;
+        }
+    }
+    /* &.block-languages {
+        .popup-title {
+            @include rtl-padding(13px, 14px, 13px, 0);
+        }
+    } */
+}  
+
+/* mini basket */
+.blockcart_top {
+    position: relative;
+    @include rtl-float-right();
+}
+#cart{        
+    padding-top: 11px;
+    @include rtl-float-right();
+    .title-cart{
+        color: $black;
+        font-family: $font-family-base;
+        text-align: center;
+        font-size: 16px;
+        display: block;
+        text-transform: none;
+        @include rtl-float-left();
+        @include rtl-margin(0, 10px, 0, 0);
+        &:before{
+            content: "\f07a";
+            width: 45px;
+            height: 22px;
+            position: absolute;
+            font-family: $font-icon;
+            background-image: url(#{$image-theme-base-path}default/icon-theme.png);
+            background-color: $nocolor;
+            background-position: 0 0;
+            background-repeat: no-repeat;
+            @include rtl-left(0);
+        }
+    }
+    .content {
+        clear: both;
+        display: block;
+        position: absolute;
+        top: 100%;
+        right: $cart-align-right;
+        left: auto;
+        padding: 15px;
+        min-height: 100px;      
+        height: 100px;
+        height: auto !important;      
+        background: $white;
+        border: $main-border;
+        z-index: 99999;
+        min-width: $cart-content-width;
+        @include rounded-corners(0px); 
+        @include box-shadow(none); 
+        display: none;
+
+    }  
+    &.active{
+        .content{
+            display: block;
+        }
+    }      
+    .heading-cart {     
+        .ajax_cart_product_empty.ajax_cart_no_product{
+            font-family: $font-family-base;
+            color: $white;
+            position: inherit;
+            background: none;
+            font-size: $font-size-base - 2;
+            @include border-radius(0);
+        }
+        /*.ajax_cart_quantity {
+            position: absolute;
+            top: 22px;
+            width: 22px;
+            height: 22px;
+            color: $white;
+            font-size: 12px;
+            line-height: 20px;
+            text-align: center;
+            display: inline-block;
+            background-color: $theme-color-default;
+            @include border-radius(50px);
+            @include rtl-right(10px);
+        }
+        .ajax_cart_total,
+        .ajax_cart_no_product,
+        .ajax_cart_product_txt_s,
+        .ajax_cart_product_txt {
+            display: none !important;
+        } */
+    }
+    .checkout {
+        @include rtl-text-align-right();
+        clear: both;
+    }
+    .empty {
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .mini-cart-total {
+        @include rtl-text-align-right();
+        td {
+            color: #000;
+            padding: 4px;
+        }
+        table {
+            border-collapse: collapse;
+            @include inline-block();
+            margin-bottom: 5px;
+        }
+    }
+    .mini-cart-info {
+        .quantity {
+            @include rtl-text-align-right();
+        }
+        .name {
+            small {
+                color: #666;
+            }
+            font-size: $cart-product-font-size;
+            font-weight: bold;
+        }
+        td {
+            color: #000;
+            vertical-align: top;
+            padding: 6px; 
+            border-bottom: $main-border;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 5px;
+        }
+        .image {
+            width: 1px;
+            img {            
+                @include rtl-text-align-left()
+            }
+        }
+        .remove {
+            @include rtl-text-align-right();
+            img {
+                cursor: pointer;
+            }
+        }
+        td.total {
+            @include rtl-text-align-right();
+        }
+    }
+
+}

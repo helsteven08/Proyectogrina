@@ -1,0 +1,695 @@
+
+//base
+a{
+    &:hover,
+    &:focus {
+        color: $link-hover-color;
+    }
+}
+
+// block search
+.btn-search {
+	&:hover {
+		color: $theme-color-default;
+	}
+}
+form#searchbox {
+	.btn {
+		&:hover {
+			color: $theme-color-default;
+		}
+	}
+}
+
+//prestashop page
+#topbar{
+    a{
+        &:hover{color: $link-hover-color;}
+    }
+    .header_user_info {
+    	.header_info {
+    		a:hover {color: $link-hover-color;}
+    	}
+    }
+    ul {
+    	li {
+    		&.selected {
+    			a,
+    			span {
+    				color: $theme-color-default;
+    			}
+    		}
+    	}
+    }
+    .links {
+    	li {
+    		a:hover {
+    			color: $theme-color-default;
+    		}
+    	}
+    }
+}
+#footer{
+	a{
+        &:hover{color: $link-hover-color;}
+    }
+    &.footer-container{
+        .#{$block-selector} {
+            .#{$block-heading-selector}{
+            	&:before {
+            		background-color: $theme-color-default;
+            	}
+                a{
+                    &:hover {
+                        color: $theme-color-default;
+                    }
+                }
+            }
+        }
+    }
+    ul {
+    	li {
+    		a {
+    			&:hover {color: $theme-color-default;}
+    		}
+    	}
+    }
+}
+.footer-logo {
+	img {
+		background-color: $theme-color-default;
+	}
+}
+// Carousel button
+.carousel-control{
+  	&:hover{
+	    background: $theme-color-default !important;
+	    border-color: $theme-color-default;
+  	}
+}
+.owl-theme {
+	.owl-controls {
+		.owl-buttons {
+			div {
+				color: $theme-color-default;
+				border: 2px solid $theme-color-default;
+				&:hover{
+					background-color: $theme-color-default;
+					border-color: $theme-color-default;
+				}
+			}
+		}
+	}
+}
+.block_carousel {
+	.block-carousel-image-container {
+		.block-content {
+		    h3 {
+		        a {
+		          &:hover, &:focus {
+		            color: $theme-color-secondary;
+		          }
+		        }
+		    }
+		}
+
+		&:hover {
+			.block-content {
+				@include rgba($theme-color-default, 0.8);
+			}
+		}
+		.testi_infor {
+			&:after {
+				background-color: $theme-color-default;
+			}
+		}
+	}
+}
+//@mixin button-variant-outline($color, $background, $border, $colorhover, $bghover, $borderhover ) {
+.btn-inverse{
+  @include button-variant-outline($white, $theme-color-default, $theme-color-default, $white, $theme-color-secondary , $theme-color-secondary);
+} 
+.btn-outline{
+  @include button-variant-outline($white, $theme-color-secondary, $theme-color-secondary, $white, $theme-color-default, $theme-color-default);
+}
+
+// BREADCRUMB
+.breadcrumb {
+	color: $breadcrumb-active-color;       
+	a {
+	  &:hover {
+	      color: $breadcrumb-active-color;
+	  }
+	}
+
+}
+
+// Contact Link
+#contact-link{
+	&:before {
+		background-color: $theme-color-default;
+	}
+}
+// blockcart
+#cart {
+	.heading {
+		a {
+            color: $theme-color-default;
+            &:hover, &:focus {
+                .title-cart {color: $link-hover-color;}
+            }
+        }
+        .ajax_cart_quantity {
+        	background-color: $theme-color-default;
+        }
+	}
+}
+// leogrouptop
+#leo_block_top {
+	ul {
+		li {
+			&.selected_language {
+				img {
+					border: 1px solid $theme-color-default;
+				}
+			}
+			&.selected {
+				a {
+					color: $theme-color-default;
+				}
+			}
+		}
+	}
+}
+// slideshow
+.bannercontainer {
+	.tp-caption {
+		&.large_green_text {
+			color: $theme-color-default;
+		}
+		a {
+			&.btn-primary {
+				background-color: $theme-color-default;
+			}
+		}
+	}
+	.button {
+		background-color: $theme-color-default;
+		border-color: $theme-color-default;
+		&:hover {
+			background-color: $theme-color-default;
+			border-color: $theme-color-default;
+		}
+		&.btn-visit {
+			&:hover {
+				color: $theme-color-default;
+			}
+		}
+	}
+}
+// Menu Top
+##{$app-brand-prefix}-megamenu {
+	.navbar-nav{
+		> li{
+			> a{
+				&:hover,&:focus,&:active{					
+					color: $megamenu-link-hover-color;				
+				}
+			}
+		}
+	}
+	.dropdown-menu{
+		a{
+			&:hover{
+				color: $theme-color-default;
+				> .menu-title{
+					color: $megamenu-sub-link-hover-color;
+				}
+			}
+		}
+		li {
+			a {
+				&:hover {
+					color: $theme-color-default;
+				}
+			}
+		}
+	}
+	.dropdown{		
+		&:hover{
+			> a{		
+				color: $megamenu-link-hover-color;
+				.fa{
+					color: $megamenu-link-hover-color;
+				}									
+			}
+		}
+	}
+}
+
+// Menu Sidebar
+##{$app-brand-prefix}-verticalmenu{
+	.#{$block-heading-selector}{
+		.fa{
+			color: $theme-color-default;
+		}
+	}
+}
+div.verticalmenu{
+	.navbar-nav{
+		> li{
+			&:hover{
+				> a{					
+					color: $megamenu-sub-link-hover-color;
+					&:hover,&:focus{				
+						color: $vertical-menu-link-hover-color;
+					}
+				}
+			}
+			&.open{
+				> a{					
+					color: $megamenu-sub-link-hover-color;
+					&:hover,&:focus{				
+						color: $vertical-menu-link-hover-color;
+					}
+				}
+				> .caret{
+					color: $theme-color-default;
+				}
+			}
+			.parent{
+				> .dropdown-toggle{
+					&:hover{
+						color: $theme-color-default;
+					}
+				}
+			}
+		}
+	}
+	ul{
+		li{
+			a{
+				&:hover,&:focus{
+					.menu-title{
+						color: $vertical-menu-link-hover-color;
+					}					
+					color: $vertical-menu-link-hover-color;
+				}
+			}
+		}
+	}
+}
+
+/*********** Appagebuilder ************/
+.fearure-content {
+	a {color: $theme-color-default;}
+}
+// top-columnleft
+.top-columnleft {
+	.img-left{
+		.image_description {background: $theme-color-default;}
+	}
+}
+// TABS TOP
+// Manufactures Block
+.manufacturers_block{
+  	img {
+	    &:hover{
+	      	border-color: $theme-color-default;
+	    }
+  	}
+}
+
+// Deal Product
+.deal-product{
+ 	.product-block{
+ 		.leo-more-cdown{
+ 			.day{
+ 				color: $theme-color-default;
+ 				b {
+		           color: $theme-color-default;
+		        }
+ 			}
+ 		}
+ 	}
+}
+// .banner-html .btn-now
+.banner-html .btn-now {
+	&:hover {
+		background-color: $theme-color-default;
+		border-color: $theme-color-default;
+	}
+}
+// Product Item
+.product-block{
+	.name{
+		a{
+			&:hover{
+				color: $product-name-hover-color;
+			}
+		}
+	}
+	.box-buttons {
+		a {
+			&:hover {
+				background-color: $theme-color-default;
+			}
+		}
+	}
+	.functional-buttons {
+		a {
+			&:hover {
+				background-color: $theme-color-default;
+			}
+		}
+	}
+}
+.view-producthome {
+	.product-block {
+		.name {
+			a {
+				&:hover {
+					color: $theme-color-default;
+				}
+			}
+		}
+	}
+}
+.box-cart-bottom {
+	.btn {
+		&:hover {
+			color: $theme-color-default;
+		}
+	}
+}
+#thumbs_list {
+	li {
+		&:hover {
+			&:before {
+				border: $main-border-hover;
+			}
+		}
+	}
+}
+
+// socialshare
+#usefull_link_block {
+	li {
+		&:hover {
+			background-color: $theme-color-default;
+			border: $main-border-hover;
+		}
+	}
+}
+// Product Page
+.content_sortPagiBar {
+	.bt_compare {
+		background-color: $theme-color-default;
+	}
+}
+//Tab
+.nav-tabs{
+	&.page-product-heading{
+		> li{
+			> a {
+				&:hover {
+					color: $theme-color-default;
+					border-bottom: 3px solid $theme-color-default;
+				}
+			}
+			&.active a {
+				&,
+				&:hover,
+				&:focus {
+					color: $theme-color-default;
+					border-bottom: 3px solid $theme-color-default;
+				}
+			}
+		}
+	}
+}
+.box-info-product{
+	.our_price_display{
+		color: $theme-color-default;
+	}
+}
+#quantity_wanted_p{
+	.btn{
+		&:hover{
+			color: $theme-color-default;
+		}
+	}
+}
+#view_scroll_left,
+#view_scroll_right {
+	&:hover {
+		&:before {color: $theme-color-default;}
+	}
+}
+#add_to_cart {
+	.btn {
+		background: $theme-color-default;
+	}
+}
+
+.content_sortPagiBar {
+	.bt_compare {
+		&:hover {background: $theme-color-default;}
+	}
+	.display .selected a .fa {color: $theme-color-default;}
+}
+
+ul.step {
+    li{       
+        &.step_current{
+          background-color: $theme-color-default;
+        }
+    }
+}
+
+// blocksocial
+#social_block {
+	ul {
+		li {
+			&:hover {
+				a {
+					&:before {background: $theme-color-default;}
+				}
+			}
+		}
+	}
+}
+// categories_block_left
+#categories_block_left {
+	li {
+		a {
+			&:hover {color: $theme-color-default;}
+		}
+		ul {
+			li {
+				a {
+					&:hover {color: $theme-color-default;}
+				}
+			}
+		}
+	}
+}
+// leoblog
+.blog-menu {
+	ul li a {
+		&:hover,
+		&.selected {
+			color: $theme-color-default;
+		}
+	}
+}
+.latest-blogs {
+	.blog-container {
+		.created {
+			background-color: $theme-color-default;
+		}
+	}
+}
+
+// Slideshow
+.iview-directionNav a:hover{
+	background: $theme-color-default;
+	color: $white;
+}
+.iview-controlNav {
+	div {
+		&.iview-items {
+			ul li a.iview-control {
+				&.active,
+				&:hover {
+					background-color: $theme-color-default;
+				}
+			}
+		}
+	}
+}
+#slideshow {
+	.block_carousel {
+		.carousel-control {
+			&:hover {
+				color: $theme-color-default;
+			}
+		}
+	}
+}
+// box-services
+.box-service {
+  .media {
+  	&:hover {
+  		.icon-box {
+  			background-color: $theme-color-default;
+  		}
+  		h4 a {
+  			color: $theme-color-default;
+  		}
+  	}
+  }
+}
+// 
+.ApColumn {
+	.block {
+		.title_1 {
+			color: $theme-color-default;
+		}
+		.title_block {
+			&:before,
+			&:after {
+				background-color: $theme-color-default;
+			}
+		} 
+	}
+}
+.page-product-box {
+	.title_1 {
+		color: $theme-color-default;
+	}
+	.productscategory_h3 {
+		&:before,
+		&:after {
+			background-color: $theme-color-default;
+		}
+	}
+}
+// sidebar
+.sidebar {
+	.block {
+		.title_block {
+			&:before {
+				background-color: $theme-color-default;
+			}
+		}
+	}
+}
+// newsletter
+#newsletter_block_left {
+	form {
+		.btn {
+			&:hover,
+			&:focus {color: $theme-color-default;}
+		}
+	}
+}
+
+// tag block
+#tags_block_left {
+	.block_content a:hover {
+		background-color: $theme-color-default;
+	}
+}
+
+// Back to top
+#back-top a{
+	background: $theme-color-default;
+}
+// group-header
+.group-header,
+.group-profile {
+  a {
+    &.active {
+      color: $theme-color-default;
+    }
+  }
+}
+
+// paneltool
+.paneltool {
+	&.themetool{
+		.group-input{
+			.leo-dynamic-update-layout,
+			.leo-dynamic-update-side,
+			.leo-dynamic-update-header {
+				&:hover{
+					color: $theme-color-default;
+				}
+				&.current-layout-mod{
+					color: $theme-color-default;
+				}
+			}
+		}
+	}
+  &.active {
+    .panelbutton {
+      color: $theme-color-default;
+    }
+  }
+}
+.leo-dynamic-update-layout {
+	&:hover {color: $theme-color-default;}
+	&.current-layout-mod {color: $theme-color-default;}
+}
+.enable_fheader {
+	&.btn_no {
+		&:before {background-color: $theme-color-default;}
+	}
+	&.btn_yes {
+		&:after {background-color: $theme-color-default;}
+	}
+}
+#customize-body {
+	.nav-tabs {
+		.active {
+			a {
+				background-color: $theme-color-default;
+			}
+		}
+	}
+}
+// top bar module dropdown
+.popup-over {
+	&:hover {
+		.popup-title {
+			color: $theme-color-default;
+		}
+	}
+	.popup-title {
+		a:hover {
+			color: $theme-color-default;
+		}
+	}
+	.popup-content {
+		a {
+			&:hover {
+				color: $theme-color-default;
+			}
+		}
+	}
+
+}
+
+@media (min-width: $screen-sm-max) { // min 991px
+}
+
+@media (max-width: $screen-xs-max) { // max 767px
+	.navbar-header {
+		.navbar-toggle{
+		  	&:hover{
+		  		color: $theme-color-default;
+		  	}
+		}
+	}
+}

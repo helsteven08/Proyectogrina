@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataSample><sql><![CDATA[]]></sql><hooks><hook module="apcontactform" hook="Header" position="42" exceptions=""/><hook module="apcontactform" hook="displayBackOfficeHeader" position="6" exceptions=""/></hooks></dataSample>

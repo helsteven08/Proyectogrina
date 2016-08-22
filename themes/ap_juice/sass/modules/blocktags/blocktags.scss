@@ -1,0 +1,30 @@
+@import "compass";
+@import "theme_variables";
+
+#tags_block_left {
+	margin: 0 35px 35px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #515151;
+	.title_block {
+		color: $white;
+		text-transform: none;
+		margin-bottom: 35px;
+		font-size: 20px;
+		@include rtl-text-align-left();
+	}
+	.block_content {
+		a {
+			color: $white;
+			background-color: #515253;
+			padding: 3px 10px;
+			margin-bottom: 8px;
+			font-size: 12px;
+			font-family: $font-family-tertiary;
+			display: inline-block;
+			@include rtl-margin-right(3px);
+			&:hover {
+				background-color: $theme-color-default;
+			}
+		}
+	}
+}

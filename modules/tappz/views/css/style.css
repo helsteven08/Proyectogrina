@@ -1,0 +1,172 @@
+body{
+	background: rgb(242,244,245);
+}
+
+.tcp-container{
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+
+	min-width: 840px;
+}
+
+.tcp-container .standart-text{
+	font-family: arial;
+	color:rgb(79,86,90);
+	margin: 0;
+	padding: 0;
+	font-size: 19px;
+}
+
+.tcp-container .low-text{
+	font-family: arial;
+	color:rgb(79,86,90);
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+}
+.tcp-container .low-text a{
+	color:rgb(79,86,90);
+	text-decoration: none;
+}
+
+.tcp-container .start-btn{
+    font-family: arial;
+    color: white;
+    background-color: rgb(248,121,34);
+    text-decoration: none;
+    font-size: 13px;
+    padding: 15px;
+    font-weight: bold;
+    margin: 15px 0;
+    width: 165px;
+	text-decoration: none;
+	color:white;
+	display: block;
+}
+
+.tcp-container .start-btn:hover{
+	background-color: rgb(235,99,7);
+	color:white!important;
+	text-decoration: none!important;
+
+}
+
+.tcp-container .option-list ul li{
+    color: rgb(140,145,147);
+    font-family: arial;
+    font-size: 20px;
+    list-style: none;
+    padding-left: 32px;
+    line-height: 27px;
+    background: url('/modules/tappz/views/img/tik@2x.png') no-repeat;
+    background-position: 0px 6px;
+}
+
+.tcp-container .header{
+	height: 135px;
+	position: relative;
+	border-bottom: 1px solid #ccc;
+
+}
+.tcp-container .header .images {
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+}
+.tcp-container .header .images .image{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 auto;
+    width: 33%;
+}
+
+.tcp-container .header .images .image img{
+	display: block;
+	margin: 0 auto;
+}
+
+.tcp-container .body{
+    margin: 30px 0;
+}
+
+.tcp-container .body .row .col{
+	width: 30%;
+	display: inline-block;
+	padding: 10px;
+	vertical-align: top;
+}
+
+.tcp-container .body .row .col-1 .option-list ul li{
+	line-height: 30px;
+}
+.tcp-container .body .row .col-2{
+	width: 30%;
+}
+
+.tcp-container .body .row .col-2{
+	width: 35%;
+}
+.tcp-container .body .row .col-3{
+	width: 25%;
+}
+
+.tcp-container .body .row .col-3{
+	width: 25%;
+}
+
+.tcp-container .body .row .col-3 .start-btn{
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.tcp-container .opt-list{
+
+
+}
+
+.tcp-container .opt-list .opt-container{
+	width: 50%;
+	margin: 0 auto;
+	margin-top:15px;
+}
+
+.tcp-container .opt-list .opt-container fieldset{
+	border: 1px solid #ccc;
+}
+
+.tcp-container .opt-list .opt-container .item{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.tcp-container .opt-list .opt-container .submit{
+	margin: 15px 0;
+	text-align: center;
+}
+
+.tcp-container .opt-list .opt-container .item .description{
+	width: 100px;
+	display: inline-block;
+	vertical-align: top;
+	font-family: arial;
+	font-size: 13px;
+}
+
+.tcp-container .opt-list .opt-container .item input,textarea{
+	width: 45%!important;
+	display: inline-block!important;
+	resize:vertical;
+}
+
+
+.tcp-container .opt-list .opt-container .item textarea{
+	height:250px;
+	width: 300px!important;
+	resize: both;
+}
+
+.tcp-container .opt-list .opt-container .item input[type='checkbox']{
+    width: 14px!important;
+    display: inline-block;
+}

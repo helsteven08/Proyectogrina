@@ -1,0 +1,10 @@
+// header.scss
+@import "vars/header.vars";
+
+#header {
+	//position: relative;
+}
+.logo{
+	display: inline-block;
+	background-color: $logo-background;
+}

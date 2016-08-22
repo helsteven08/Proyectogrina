@@ -1,0 +1,111 @@
+@import "vars/block.vars";
+
+// block.scss
+
+// block in sidebar - left column, right column
+.sidebar{
+    .#{$block-selector} {
+        border: $main-border;
+        margin-bottom: $block-margin-bottom;   
+        .#{$block-heading-selector}{
+            position: relative;
+            color: $block-heading-color;
+            background-color: $block-heading-bg;
+            position: relative;                                                       
+            text-transform: $block-heading-transform;
+            font-family: $block-heading-font-family;        
+            font-size: $block-heading-font-size;
+            letter-spacing: $block-heading-letter-spacing;   
+            font-weight: 700;
+            margin: 0;      
+            padding: $block-heading-padding;
+            @include rounded-corners ($block-heading-radius);
+            &:before {
+                position: absolute;
+                content: "";
+                bottom: 0;
+                height: 2px;
+                width: 35px;
+                background-color: $theme-color-default;
+                @include rtl-left(15px);
+            }
+            a{
+                color: $block-heading-color;
+            }      
+        }
+        .#{$block-content-selector} {        
+            padding: $block-content-padding;
+            border: $block-content-border;  
+            background: $block-content-bg;             
+            @include clearfix();     
+            @include rounded-corners ($block-content-radius);
+        }
+        .lnk{
+            margin-top: 10px;
+        }
+    }
+    //Widget
+    .ApColumn{
+        .#{$block-selector} {
+            .#{$block-heading-selector}{
+                border-bottom: none;
+                text-transform: uppercase;
+                margin: 0;
+            }
+            .#{$block-content-selector} {
+                border: $main-border;
+            }
+        }
+    }
+    //Product Item
+    .product-block{
+        margin: 0;
+        background-color: $nocolor;
+        .name{
+            @include rtl-float-left();
+            width: 100%;
+            height: 38px;
+            line-height: 20px;
+            &:after {content: none;}
+            a{
+                font-size: 14px;
+            }
+        }
+        .price {clear: both;}
+        .product-meta{
+            @include rtl-text-align-left();
+        }
+        .product-content{
+            @include rtl-text-align-left();
+        }
+        .description {
+            height: 43px;
+            overflow: hidden;
+            clear: both;
+        }
+    }
+
+    // block-variant($border, $heading-text-color, $heading-bg-color, $heading-border)
+    // Contextual variations
+    .#{$block-prefix}-default {
+      @include block-variant($panel-default-border, $panel-default-text, $panel-default-heading-bg, $panel-default-border);
+    }
+    .#{$block-prefix}-primary {
+      @include block-variant($panel-primary-border, $panel-primary-text, $panel-primary-heading-bg, $panel-primary-border);
+    }
+    .#{$block-prefix}-success {
+      @include block-variant($panel-success-border, $panel-success-text, $panel-success-heading-bg, $panel-success-border);
+    }
+    .#{$block-prefix}-info {
+      @include block-variant($panel-info-border, $panel-info-text, $panel-info-heading-bg, $panel-info-border);
+    }
+    .#{$block-prefix}-warning {
+      @include block-variant($panel-warning-border, $panel-warning-text, $panel-warning-heading-bg, $panel-warning-border);
+    }
+    .#{$block-prefix}-danger {
+      @include block-variant($panel-danger-border, $panel-danger-text, $panel-danger-heading-bg, $panel-danger-border);
+    }
+    .#{$block-prefix}-highlighted {
+        @include block-variant($block-highlighted-border, $block-highlighted-text, $block-highlighted-bg, $block-highlighted-border);
+    }
+}

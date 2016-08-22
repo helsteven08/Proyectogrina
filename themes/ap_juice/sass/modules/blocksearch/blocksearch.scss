@@ -1,0 +1,130 @@
+@import "compass";
+@import "theme_variables";
+
+ 
+.ac_results {
+	background: $light-background;
+	border: $main-border;
+	width: 220px;
+	margin-top: -1px;
+	li {
+		padding: 0 10px;
+		font-weight: normal;
+		color: #686666;
+		font-size: 13px;
+		line-height: 22px;
+		&.ac_odd {
+			background: $light-background;
+		}
+		&:hover, &.ac_over { 
+		}
+	}
+}	
+
+.close-overlay{
+	z-index: 99999;
+	position: relative;
+	cursor: pointer;
+	font-size: 26px;
+	color: #333;
+	@include transform(scale(0));
+	@include transition(all 0.4s $ease-out-quad);
+	display: inline-block;
+	position: fixed;
+	top: 3px;
+	@include rtl-right(15px);
+	&.active{
+		@include transform(scale(1.0));
+	}
+}
+.block-form{
+	z-index: 9999;
+  	position: fixed;
+  	display: table;
+  	width: 100%;
+  	height: 100%;
+  	right: -20%;
+  	top:0;
+  	visibility: hidden;
+  	@include opacity(0);
+  	/* @include transition(all 0.5s $ease-out-quad); */
+	&.active{
+		right: 0;
+		@include opacity(1);
+		visibility: visible;
+	}
+}
+.over-layer{
+	@include transition(all 0.6s $ease-out-quad);
+	@include size(60px,60px);
+	position: fixed;
+	top: -60px;
+	@include rtl-left(50%);
+	@include rtl-margin-left(-30px);
+	z-index: 9998;
+	&:before{
+		content: "";
+		left: 0;
+		top: 0;
+		position: absolute;
+		@include size(100%,100%);
+		@include rgba(#fff, 0.98);
+		z-index: 9999;
+	}
+	&.active{
+		&:before{
+			@include transform(scale(75));
+		}
+	}
+}
+form#searchbox {
+	margin-top: 23%;
+    z-index: 10;
+    background-color: $nocolor !important;
+	input.search_query {
+		padding: 0;
+		width: 100%;
+		height: 70px;
+		max-width: inherit;
+		font-size: 20px;
+		font-weight: 400;
+		padding: 0;
+		border: none;
+		border-bottom: 1px solid #DDD;
+		background-color: $nocolor;
+		@include box-shadow(none);
+		@include rtl-float-left();
+		@include border-radius(0);
+		&:focus{
+			@include box-shadow(none);
+		}
+	}
+	.btn {
+		height: 70px;
+		font-size: 20px;
+		font-weight: 700;
+		padding: 0 20px;
+		color: #333;
+		background-color: $nocolor;
+		text-transform: uppercase;
+		position: absolute;
+		@include rtl-right(0);
+		@include box-shadow(none);
+		@include rtl-float-left();
+		span {display: none;}
+		&:hover {
+			color: $theme-color-default;
+		}
+	}
+}
+.btn-search {
+	position: absolute;
+	top: 0;
+	padding: 14px 16px;
+	cursor: pointer;
+	color: $black;
+	@include rtl-right(0);
+	&:hover {
+		color: $theme-color-default;
+	}
+}

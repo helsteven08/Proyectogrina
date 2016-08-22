@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<themeeditor>
+	<author>leotheme</author>
+	<name>Live Theme Editor</name>
+	<configs>
+		<item>
+			<block>header_style</block>
+			<title>Header Style</title>
+			<default>classic</default>
+			<option>
+				 <name>Default</name>
+				 <id>header-default</id>
+			</option>
+			<option>
+				 <name>Default: Right</name>
+				 <id>header-default-right</id>
+			</option>
+			<option>
+				 <name>Simple</name>
+				 <id>header-simple</id>
+			</option>
+			<option>
+				 <name>Simple: Fixed</name>
+				 <id>header-simple-fixed</id>
+			</option>
+			<option>
+				 <name>Fixed</name>
+				 <id>header-fixed</id>
+			</option>
+			<option>
+				 <name>Transparent</name>
+				 <id>header-transparent</id>
+			</option>
+			<option>
+				 <name>Below Slider</name>
+				 <id>header-below-slider</id>
+			</option>
+			<option>
+				 <name>Stack: Left</name>
+				 <id>header-stack-left</id>
+			</option>
+			<option>
+				 <name>Stack: Right</name>
+				 <id>header-stack-right</id>
+			</option>
+			<option>
+				 <name>Stack: Center</name>
+				 <id>header-stack-center</id>
+			</option>
+			<option>
+				 <name>Creative</name>
+				 <id>header-creative</id>
+			</option>
+			<option>
+				 <name>Creative: Open</name>
+				 <id>header-creative-always-open</id>
+			</option>
+		</item>
+	</configs>
+</themeeditor>

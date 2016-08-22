@@ -1,0 +1,454 @@
+/*-----------------------*/
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+a:hover, a:focus {
+  color: #e38384;
+}
+
+.btn-search:hover {
+  color: #e38384;
+}
+
+form#searchbox .btn:hover {
+  color: #e38384;
+}
+
+#topbar a:hover {
+  color: #e38384;
+}
+#topbar .header_user_info .header_info a:hover {
+  color: #e38384;
+}
+#topbar ul li.selected a,
+#topbar ul li.selected span {
+  color: #e38384;
+}
+#topbar .links li a:hover {
+  color: #e38384;
+}
+
+#footer a:hover {
+  color: #e38384;
+}
+#footer.footer-container .block .title_block:before {
+  background-color: #e38384;
+}
+#footer.footer-container .block .title_block a:hover {
+  color: #e38384;
+}
+#footer ul li a:hover {
+  color: #e38384;
+}
+
+.footer-logo img {
+  background-color: #e38384;
+}
+
+.carousel-control:hover {
+  background: #e38384 !important;
+  border-color: #e38384;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+  color: #e38384;
+  border: 2px solid #e38384;
+}
+.owl-theme .owl-controls .owl-buttons div:hover {
+  background-color: #e38384;
+  border-color: #e38384;
+}
+
+.block_carousel .block-carousel-image-container .block-content h3 a:hover, .block_carousel .block-carousel-image-container .block-content h3 a:focus {
+  color: #444040;
+}
+.block_carousel .block-carousel-image-container:hover .block-content {
+  background-color: #e38384;
+  background-color: rgba(227, 131, 132, 0.8);
+  zoom: 1;
+  background-color: transparent\9;
+}
+.block_carousel .block-carousel-image-container .testi_infor:after {
+  background-color: #e38384;
+}
+
+.btn-inverse {
+  color: white;
+  background-color: #e38384;
+  border-color: #e38384;
+}
+.btn-inverse:hover, .btn-inverse:focus, .btn-inverse:active, .btn-inverse.active {
+  color: white;
+  background-color: #444040;
+  border-color: #444040;
+}
+.open .btn-inverse.dropdown-toggle {
+  color: white;
+  background-color: #444040;
+  border-color: #444040;
+}
+.btn-inverse:active, .btn-inverse.active {
+  background-image: none;
+}
+.open .btn-inverse.dropdown-toggle {
+  background-image: none;
+}
+.btn-inverse.disabled, .btn-inverse.disabled:hover, .btn-inverse.disabled:focus, .btn-inverse.disabled:active, .btn-inverse.disabled.active, .btn-inverse[disabled], .btn-inverse[disabled]:hover, .btn-inverse[disabled]:focus, .btn-inverse[disabled]:active, .btn-inverse[disabled].active, fieldset[disabled] .btn-inverse, fieldset[disabled] .btn-inverse:hover, fieldset[disabled] .btn-inverse:focus, fieldset[disabled] .btn-inverse:active, fieldset[disabled] .btn-inverse.active {
+  background-color: #e38384;
+  border-color: #e38384;
+}
+.btn-inverse .badge {
+  color: #e38384;
+  background-color: white;
+}
+
+.btn-outline {
+  color: white;
+  background-color: #444040;
+  border-color: #444040;
+}
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+  color: white;
+  background-color: #e38384;
+  border-color: #e38384;
+}
+.open .btn-outline.dropdown-toggle {
+  color: white;
+  background-color: #e38384;
+  border-color: #e38384;
+}
+.btn-outline:active, .btn-outline.active {
+  background-image: none;
+}
+.open .btn-outline.dropdown-toggle {
+  background-image: none;
+}
+.btn-outline.disabled, .btn-outline.disabled:hover, .btn-outline.disabled:focus, .btn-outline.disabled:active, .btn-outline.disabled.active, .btn-outline[disabled], .btn-outline[disabled]:hover, .btn-outline[disabled]:focus, .btn-outline[disabled]:active, .btn-outline[disabled].active, fieldset[disabled] .btn-outline, fieldset[disabled] .btn-outline:hover, fieldset[disabled] .btn-outline:focus, fieldset[disabled] .btn-outline:active, fieldset[disabled] .btn-outline.active {
+  background-color: #444040;
+  border-color: #444040;
+}
+.btn-outline .badge {
+  color: #444040;
+  background-color: white;
+}
+
+.breadcrumb {
+  color: #e38384;
+}
+.breadcrumb a:hover {
+  color: #e38384;
+}
+
+#contact-link:before {
+  background-color: #e38384;
+}
+
+#cart .heading a {
+  color: #e38384;
+}
+#cart .heading a:hover .title-cart, #cart .heading a:focus .title-cart {
+  color: #e38384;
+}
+#cart .heading .ajax_cart_quantity {
+  background-color: #e38384;
+}
+
+#leo_block_top ul li.selected_language img {
+  border: 1px solid #e38384;
+}
+#leo_block_top ul li.selected a {
+  color: #e38384;
+}
+
+.bannercontainer .tp-caption.large_green_text {
+  color: #e38384;
+}
+.bannercontainer .tp-caption a.btn-primary {
+  background-color: #e38384;
+}
+.bannercontainer .button {
+  background-color: #e38384;
+  border-color: #e38384;
+}
+.bannercontainer .button:hover {
+  background-color: #e38384;
+  border-color: #e38384;
+}
+.bannercontainer .button.btn-visit:hover {
+  color: #e38384;
+}
+
+#leo-megamenu .navbar-nav > li > a:hover, #leo-megamenu .navbar-nav > li > a:focus, #leo-megamenu .navbar-nav > li > a:active {
+  color: #e38384;
+}
+#leo-megamenu .dropdown-menu a:hover {
+  color: #e38384;
+}
+#leo-megamenu .dropdown-menu a:hover > .menu-title {
+  color: #e38384;
+}
+#leo-megamenu .dropdown-menu li a:hover {
+  color: #e38384;
+}
+#leo-megamenu .dropdown:hover > a {
+  color: #e38384;
+}
+#leo-megamenu .dropdown:hover > a .fa {
+  color: #e38384;
+}
+
+#leo-verticalmenu .title_block .fa {
+  color: #e38384;
+}
+
+div.verticalmenu .navbar-nav > li:hover > a {
+  color: #e38384;
+}
+div.verticalmenu .navbar-nav > li:hover > a:hover, div.verticalmenu .navbar-nav > li:hover > a:focus {
+  color: #e38384;
+}
+div.verticalmenu .navbar-nav > li.open > a {
+  color: #e38384;
+}
+div.verticalmenu .navbar-nav > li.open > a:hover, div.verticalmenu .navbar-nav > li.open > a:focus {
+  color: #e38384;
+}
+div.verticalmenu .navbar-nav > li.open > .caret {
+  color: #e38384;
+}
+div.verticalmenu .navbar-nav > li .parent > .dropdown-toggle:hover {
+  color: #e38384;
+}
+div.verticalmenu ul li a:hover, div.verticalmenu ul li a:focus {
+  color: #e38384;
+}
+div.verticalmenu ul li a:hover .menu-title, div.verticalmenu ul li a:focus .menu-title {
+  color: #e38384;
+}
+
+/*********** Appagebuilder ************/
+.fearure-content a {
+  color: #e38384;
+}
+
+.top-columnleft .img-left .image_description {
+  background: #e38384;
+}
+
+.manufacturers_block img:hover {
+  border-color: #e38384;
+}
+
+.deal-product .product-block .leo-more-cdown .day {
+  color: #e38384;
+}
+.deal-product .product-block .leo-more-cdown .day b {
+  color: #e38384;
+}
+
+.banner-html .btn-now:hover {
+  background-color: #e38384;
+  border-color: #e38384;
+}
+
+.product-block .name a:hover {
+  color: #e38384;
+}
+.product-block .box-buttons a:hover {
+  background-color: #e38384;
+}
+.product-block .functional-buttons a:hover {
+  background-color: #e38384;
+}
+
+.view-producthome .product-block .name a:hover {
+  color: #e38384;
+}
+
+.box-cart-bottom .btn:hover {
+  color: #e38384;
+}
+
+#thumbs_list li:hover:before {
+  border: 1px solid #e38384;
+}
+
+#usefull_link_block li:hover {
+  background-color: #e38384;
+  border: 1px solid #e38384;
+}
+
+.content_sortPagiBar .bt_compare {
+  background-color: #e38384;
+}
+
+.nav-tabs.page-product-heading > li > a:hover {
+  color: #e38384;
+  border-bottom: 3px solid #e38384;
+}
+.nav-tabs.page-product-heading > li.active a, .nav-tabs.page-product-heading > li.active a:hover, .nav-tabs.page-product-heading > li.active a:focus {
+  color: #e38384;
+  border-bottom: 3px solid #e38384;
+}
+
+.box-info-product .our_price_display {
+  color: #e38384;
+}
+
+#quantity_wanted_p .btn:hover {
+  color: #e38384;
+}
+
+#view_scroll_left:hover:before,
+#view_scroll_right:hover:before {
+  color: #e38384;
+}
+
+#add_to_cart .btn {
+  background: #e38384;
+}
+
+.content_sortPagiBar .bt_compare:hover {
+  background: #e38384;
+}
+.content_sortPagiBar .display .selected a .fa {
+  color: #e38384;
+}
+
+ul.step li.step_current {
+  background-color: #e38384;
+}
+
+#social_block ul li:hover a:before {
+  background: #e38384;
+}
+
+#categories_block_left li a:hover {
+  color: #e38384;
+}
+#categories_block_left li ul li a:hover {
+  color: #e38384;
+}
+
+.blog-menu ul li a:hover, .blog-menu ul li a.selected {
+  color: #e38384;
+}
+
+.latest-blogs .blog-container .created {
+  background-color: #e38384;
+}
+
+.iview-directionNav a:hover {
+  background: #e38384;
+  color: white;
+}
+
+.iview-controlNav div.iview-items ul li a.iview-control.active, .iview-controlNav div.iview-items ul li a.iview-control:hover {
+  background-color: #e38384;
+}
+
+#slideshow .block_carousel .carousel-control:hover {
+  color: #e38384;
+}
+
+.box-service .media:hover .icon-box {
+  background-color: #e38384;
+}
+.box-service .media:hover h4 a {
+  color: #e38384;
+}
+
+.ApColumn .block .title_1 {
+  color: #e38384;
+}
+.ApColumn .block .title_block:before, .ApColumn .block .title_block:after {
+  background-color: #e38384;
+}
+
+.page-product-box .title_1 {
+  color: #e38384;
+}
+.page-product-box .productscategory_h3:before, .page-product-box .productscategory_h3:after {
+  background-color: #e38384;
+}
+
+.sidebar .block .title_block:before {
+  background-color: #e38384;
+}
+
+#newsletter_block_left form .btn:hover, #newsletter_block_left form .btn:focus {
+  color: #e38384;
+}
+
+#tags_block_left .block_content a:hover {
+  background-color: #e38384;
+}
+
+#back-top a {
+  background: #e38384;
+}
+
+.group-header a.active,
+.group-profile a.active {
+  color: #e38384;
+}
+
+.paneltool.themetool .group-input .leo-dynamic-update-layout:hover,
+.paneltool.themetool .group-input .leo-dynamic-update-side:hover,
+.paneltool.themetool .group-input .leo-dynamic-update-header:hover {
+  color: #e38384;
+}
+.paneltool.themetool .group-input .leo-dynamic-update-layout.current-layout-mod,
+.paneltool.themetool .group-input .leo-dynamic-update-side.current-layout-mod,
+.paneltool.themetool .group-input .leo-dynamic-update-header.current-layout-mod {
+  color: #e38384;
+}
+.paneltool.active .panelbutton {
+  color: #e38384;
+}
+
+.leo-dynamic-update-layout:hover {
+  color: #e38384;
+}
+.leo-dynamic-update-layout.current-layout-mod {
+  color: #e38384;
+}
+
+.enable_fheader.btn_no:before {
+  background-color: #e38384;
+}
+.enable_fheader.btn_yes:after {
+  background-color: #e38384;
+}
+
+#customize-body .nav-tabs .active a {
+  background-color: #e38384;
+}
+
+.popup-over:hover .popup-title {
+  color: #e38384;
+}
+.popup-over .popup-title a:hover {
+  color: #e38384;
+}
+.popup-over .popup-content a:hover {
+  color: #e38384;
+}
+
+@media (max-width: 767px) {
+  .navbar-header .navbar-toggle:hover {
+    color: #e38384;
+  }
+}

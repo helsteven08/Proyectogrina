@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataSample><sql><![CDATA[]]></sql><hooks><hook module="blockgrouptop" hook="Header" position="38" exceptions=""/></hooks></dataSample>

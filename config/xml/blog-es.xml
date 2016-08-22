@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ES - Blog Ecommerce de PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/es</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Aug 2016 07:34:06 +0000</lastBuildDate>
+	<language>es-ES</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>¿Qué es el formato Accelerated Mobile Pages (AMP) y cómo puede ayudar a mi web?</title>
+		<link>https://www.prestashop.com/blog/es/que-es-el-formato-accelerated-mobile-pages-amp-y-como-puede-ayudar-mi-web/</link>
+		<comments>https://www.prestashop.com/blog/es/que-es-el-formato-accelerated-mobile-pages-amp-y-como-puede-ayudar-mi-web/#comments</comments>
+		<pubDate>Mon, 01 Aug 2016 07:31:45 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14824</guid>
+		<description><![CDATA[<p>El planeta no ha tardado en acostumbrarse a la iniciativa de código abierto de Google: Accelerated Mobile Pages (AMP). Este proyecto, destinado a mejorar el rendimiento de las webs móviles, ha contado con la colaboración de varios de los gigantes de la industria tecnológica. Pero, ¿en qué consiste la iniciativa AMP, cómo afecta a tu [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/que-es-el-formato-accelerated-mobile-pages-amp-y-como-puede-ayudar-mi-web/">¿Qué es el formato Accelerated Mobile Pages (AMP) y cómo puede ayudar a mi web?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El planeta no ha tardado en acostumbrarse a la iniciativa de código abierto de Google: Accelerated Mobile Pages (AMP). Este proyecto, destinado a mejorar el rendimiento de las webs móviles, ha contado con la colaboración de varios de los gigantes de la industria tecnológica.</p>
+<p><span id="more-14824"></span></p>
+<p>Pero, ¿en qué consiste la iniciativa AMP, cómo afecta a tu estrategia de SEO y qué ventajas puede ofrecer a tu web? Sigue leyendo para descubrir la respuesta.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/07/1-amp.jpg"><img class=" wp-image-14825 alignnone" alt="1 amp" src="https://www.prestashop.com/blog/es/files/2016/07/1-amp.jpg" width="800" height="400" /></a></p>
+<h2><span style="color: #0b87c3">¿En qué consiste la iniciativa AMP? </span></h2>
+<p>Accelerated Mobile Pages o AMP es una norma de codificación de código abierto desarrollada para aumentar la velocidad de carga de las páginas web en teléfonos móviles. El proyecto AMP permite a los publicistas crear versiones ligeras de las páginas lentas y pesadas.</p>
+<p>Para que estas webs AMP funcionen correctamente, se utiliza un lenguaje HTML simplificado en lugar de una versión completa (¡y pesada!). Este formato permite que las webs carguen más rápido en soportes más pequeños, como los smartphones.</p>
+<p>Una web AMP presenta varias características:</p>
+<ul>
+<li>Uso optimizado de CSS y HTML, con un tamaño de elementos inline en CSS inferior a 50 kb.</li>
+<li>Función de carga de imágenes &#8220;lazy load&#8221;: las imágenes solo aparecerán si te desplazas hacia abajo.</li>
+<li>Compatibilidad con Ads y Analytics, al igual que cualquier página normal.</li>
+<li>Sin necesidad de JavaScript.</li>
+<li>Las webs AMP deben ser aprobadas por el AMP Validator, incluido en la AMP JS Library.</li>
+<li>Se deben cargar las fuentes personalizadas e indicar la altura y anchura de las imágenes.</li>
+<li>No se permiten los formularios.</li>
+<li>Se pueden incluir vídeos empleando las extensiones AMP.</li>
+</ul>
+<p>Todas estas restricciones reducirán los tiempos de carga y nos harán olvidar la frustración de tener que esperar un siglo para acceder a los contenidos.</p>
+<h2><span style="color: #0b87c3">¿Qué beneficios ofrece AMP? </span></h2>
+<ul>
+<li>Reducción del tiempo de carga</li>
+</ul>
+<p>Obviamente, la principal ventaja de AMP es la rapidez de carga de las páginas web.</p>
+<p>Si alguna vez has intentando acceder a contenidos desde tu smartphone, sabrás que te han podido dar las uvas esperando. La mayoría de usuarios emplea una tarifa de datos lenta, por lo que la velocidad actual no es suficiente para consultar la información fuera de casa.</p>
+<p>Sin embargo, las webs AMP permiten abrir el contenido más rápidamente. Según datos de Google, la rapidez de carga de estas webs es un 15-85 % mayor que en las webs convencionales. Si aumentas la rapidez de carga, estarás mejorando la experiencia del usuario. Y si los usuarios acceden con mayor facilidad a la información, permanecerán en tu página durante más tiempo.</p>
+<ul>
+<li>Ventajas de SEO:</li>
+</ul>
+<p>No cabe duda de que los dispositivos móviles son el futuro, y Google es un firme defensor de esta idea. Si tu web cuenta con una versión móvil, Google la mostrará antes y mejorará tu posición automáticamente. Ten en cuenta que cuanto más tiempo permanezca un usuario en tu página más puestos escalarás.</p>
+<p>No hay mejor manera de ilustrar la transcendencia de las webs AMP que con el carrusel de webs AMP que Google ha incorporado en la primera página de los resultados de búsqueda en dispositivos móviles. Este carrusel incluye artículos relacionados con la búsqueda y una imagen con el título del artículo. ¿Te imaginas el alcance que podrían tener tus contenidos?</p>
+<p style="text-align: center"><a href="https://www.prestashop.com/blog/es/files/2016/07/2-amp.png"><img class="size-full wp-image-14826 aligncenter" alt="2 amp" src="https://www.prestashop.com/blog/es/files/2016/07/2-amp.png" width="352" height="651" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="color: #0b87c3">¿Quién puede utilizar las webs AMP?</span></h2>
+<p>Las webs AMP tienen buena pinta pero, ¿merecen la pena el tiempo y el esfuerzo? Sí, aunque no para todo el mundo.</p>
+<p>La iniciativa Accelerated Mobile Pages resulta útil para webs que publican entradas de blogs, artículos de noticias y otro tipo de contenidos. Sin embargo, si conviertes tus páginas de productos o servicios, perderás una valiosa oportunidad de impresionar a tus visitantes por su apariencia, ya que las webs AMP utilizan HTML reducido.</p>
+<p>En lugar de convertir toda tu web, te recomendamos que te centres en el blog o la sección de noticias. Si aceleras la carga de los artículos de tu blog, los usuarios accederán a la información que necesitan con mayor rapidez, lo que mejorará tu posición.</p>
+<p>Si tu página web (de marketing de contenidos o publicaciones) incorpora nueva información con frecuencia, la estrategia de AMP resultará muy provechosa para mejorar tu posición en los buscadores.</p>
+<h2><span style="color: #0b87c3">¿Cómo pasar a AMP?</span></h2>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/07/amp.png"><img class=" wp-image-14827 alignnone" alt="amp" src="https://www.prestashop.com/blog/es/files/2016/07/amp.png" width="869" height="489" /></a></p>
+<p>Si creaste tu web con WordPress, tardarás cinco minutos en integrar la estrategia AMP gracias a los complementos siguientes:</p>
+<ul>
+<li>AMP WordPress de Automattic</li>
+<li>Yoast SEO</li>
+</ul>
+<p>Si no utilizas WordPress, tendrás que recurrir al hardcode. En la página web de AMP encontrarás toda la información para incorporar esta estrategia a mano.</p>
+<p>Una vez integrada, tómatelo con calma, tu contenido no aparecerá al instante en los resultados de búsqueda. Con Google, estas páginas tardan unos cuantos días en escalar posiciones. Ten en cuenta que el proceso puede ser bastante lento, sobre todo si el contenido ya existía previamente.</p>
+<p>AMP es un marco gratuito de código abierto que te brinda una interesante oportunidad para mejorar los resultados de posicionamiento y búsqueda de tu web. Aprovéchala y ofrece a tus usuarios una experiencia móvil más rápida con Accelerated Mobile Pages.<br />
+¿Te has propuesto aplicar la estrategia AMP en los artículos de tu blog y tus páginas de contenido? Cuéntanoslo: ¡los comentarios son todo tuyos!</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>Acerca del autor:</strong></p>
+<p><img class="alignleft" alt="Logo" src="https://www.prestashop.com/blog/es/files/2016/07/Logo.jpg" width="258" height="90" />SHAMLATECH es una agencia global de servicios empresariales que lleva más de ocho años cosechando clientes satisfechos. Sus servicios incluyen desarrollo de sitios web, tiendas online y aplicaciones móviles, además de marketing digital.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/que-es-el-formato-accelerated-mobile-pages-amp-y-como-puede-ayudar-mi-web/">¿Qué es el formato Accelerated Mobile Pages (AMP) y cómo puede ayudar a mi web?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/que-es-el-formato-accelerated-mobile-pages-amp-y-como-puede-ayudar-mi-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seis tácticas inteligentes de precios competitivos para empresas de e-commerce &#8211; parte 2/2</title>
+		<link>https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-22/</link>
+		<comments>https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-22/#comments</comments>
+		<pubDate>Thu, 21 Jul 2016 07:19:22 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14849</guid>
+		<description><![CDATA[<p>En la primera parte de las &#8220;seis tácticas inteligentes de precios competitivos&#8221;, compartí tres métodos para fijar los precios de tus productos de manera competitiva: controlar tus costes, no infravalorar tus productos y efectuar una estrategia de tarificación a nivel de marca o categoría. Sigue leyendo para descubrir las tres tácticas restantes. 4 &#8211; Analiza [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-22/">Seis tácticas inteligentes de precios competitivos para empresas de e-commerce &#8211; parte 2/2</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En la primera parte de las &#8220;seis tácticas inteligentes de precios competitivos&#8221;, compartí tres métodos para fijar los precios de tus productos de manera competitiva: controlar tus costes, no infravalorar tus productos y efectuar una estrategia de tarificación a nivel de marca o categoría. Sigue leyendo para descubrir las tres tácticas restantes.</p>
+<p><span id="more-14849"></span></p>
+<h2><span style="color: #3d698e;">4 &#8211; Analiza las tendencias de precios de tus competidores para identificar descuentos de fin de semana o ventas flash durante la noche</span></h2>
+<p>(**Aquí encontrarás los puntos 1-3 de este artículo.)<br />
+Las compras son algo del presente, una cuestión de &#8220;aquí y ahora&#8221;. Sin embargo, este fenómeno no se aplica a los precios. La mayoría de las empresas cuentan con <a href="https://en.wikipedia.org/wiki/Time-based_pricing" target="_blank">estrategias de tarifas dinámicas</a> o <a href="https://blog.prisync.com/implementing-an-effective-discount-strategy/" target="_blank">de descuento</a>. Algunas lanzan campañas públicas de rebajas para el fin de semana mientras que otras aprovechan el frenesí de los descuentos nocturnos para fidelizar a sus clientes.</p>
+<p>Conocer mejor estas tendencias y responder de manera competitiva es igual de importante que ser competitivo con tus productos.</p>
+<p>Esto se debe a que estas tendencias o campañas no solo ofrecen un mero descuento, sino que sirven para forjar una base de clientes fieles.</p>
+<p>Por tanto, las empresas de e-commerce deben controlar y analizar las tendencias de precios pasadas de sus competidores así como examinar cuidadosamente los precios actuales.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/07/image1.jpg"><img class="alignnone size-full wp-image-14852" alt="image1" src="https://www.prestashop.com/blog/es/files/2016/07/image1.jpg" width="1300" height="867" /></a></p>
+<h2><span style="color: #3d698e;">5 &#8211; Céntrate en los productos agotados de la competencia</span></h2>
+<p>El precio es importante pero, ¿qué pasa si la empresa no puede enviar ese producto?<br />
+Los compradores online se fijan tanto en la disponibilidad como en los precios. Si el artículo no está disponible, el comprador acudirá a otro lugar para adquirirlo. En caso de producto agotado o demasiado caro, la mente del comprador reacciona de la misma manera: pierde el interés y busca una alternativa.</p>
+<p>Se trata de una ventaja para las empresas de e-commerce. Las existencias de tus competidores te brindan una excelente oportunidad para fijar los precios.</p>
+<p>Cuando un producto a un margen muy estrecho se agota en las tiendas de la competencia, los vendedores no tendrán muchas opciones, así que estarán dispuestos a pagar un poco más. Por tanto, la empresa de e-commerce que ofrezca una ventaja competitiva y disponibilidad del producto puede aprovechar la coyuntura para fijar los precios.</p>
+<p>Utilizando la tecnología adecuada, las empresas pueden conocer los precios y disponibilidades de sus competidores y aplicar su estrategia al momento.</p>
+<h2><span style="color: #3d698e;">6 &#8211; Recurre a los datos para negociar mejores acuerdos con tus proveedores</span></h2>
+<p>Los datos son tu mejor baza a la hora de negociar, ya que te permiten presentar un argumento de manera objetiva.</p>
+<p>Ante unos datos irrefutables, los proveedores de las <a href="https://blog.prisync.com/tips-supplier-relationships-in-ecommerce/" target="_blank">empresas de e-commerce</a> no tienen nada que hacer.</p>
+<p>No es extraño que las empresas de e-commerce echen en cara a sus proveedores los precios que algunos competidores muestran por productos que ellos también ofrecen.</p>
+<p>Solo con mencionárselo a tu proveedor no conseguirás mucho. Sin embargo, la cosa cambia si durante la negociación empleas un formato estructurado con datos precisos que demuestren que tu empresa de e-commerce está en clara desventaja por culpa del proveedor. Proporcionar pruebas inapelables puede conseguirte descuentos u ofertas adicionales.</p>
+<p>En definitiva, ser inteligente y demostrar que estás al tanto de lo que se cuece entre proveedores y competidores te permitirá exigir un acuerdo mejor para ti.</p>
+<h2><span style="color: #3d698e;">Conclusión</span></h2>
+<p>Las tácticas de precios competitivos engloban un análisis global que va más allá de controlar nuestros precios y los de la competencia.</p>
+<p>Aunque llevar este tipo de seguimiento aumenta considerablemente el número de ventas y beneficios, no deberíamos conformarnos con eso. Si las empresas de e-commerce innovan e implementan las estrategias de precios anteriores podrán, independientemente de su tamaño, aventajar a sus competidores en el feroz mercado del e-commerce.</p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>Sobre el autor</strong></p>
+<p><img class="size-full wp-image-14834 alignleft" alt="6SmartCompetitivePricingTactics_4" src="https://www.prestashop.com/blog/es/files/2016/07/6SmartCompetitivePricingTactics_4.png" width="144" height="177" />Burc Tanir es un incondicional de las pymes, el e-commerce es su religión y es consejero delegado de Prisync.com, el software de seguimiento de precios de competidores, actualmente utilizado por empresas en más de 40 países.<br />
+&nbsp;</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-22/">Seis tácticas inteligentes de precios competitivos para empresas de e-commerce &#8211; parte 2/2</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-22/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brexit: ¿qué va a cambiar para el e-commerce desde un punto de vista legal y fiscal?</title>
+		<link>https://www.prestashop.com/blog/es/brexit-que-va-cambiar-para-el-e-commerce-desde-un-punto-de-vista-legal-y-fiscal/</link>
+		<comments>https://www.prestashop.com/blog/es/brexit-que-va-cambiar-para-el-e-commerce-desde-un-punto-de-vista-legal-y-fiscal/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 12:28:33 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14840</guid>
+		<description><![CDATA[<p>Muchos vendedores online españoles se preguntan qué repercusiones va a tener la salida del Reino Unido de la UE para el e-commerce dirigido a consumidores anglosajones. A continuación se exponen de manera extremadamente sucinta las posibles consecuencias del abandono del Reino Unido (&#8220;Brexit&#8221;) de la UE en términos de comercio internacional, a corto y medio [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/brexit-que-va-cambiar-para-el-e-commerce-desde-un-punto-de-vista-legal-y-fiscal/">Brexit: ¿qué va a cambiar para el e-commerce desde un punto de vista legal y fiscal?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Muchos vendedores online españoles se preguntan qué repercusiones va a tener la salida del Reino Unido de la UE para el e-commerce dirigido a consumidores anglosajones.</p>
+<p>A continuación se exponen de manera extremadamente sucinta las posibles consecuencias del abandono del Reino Unido (&#8220;Brexit&#8221;) de la UE en términos de comercio internacional, a corto y medio plazo.</p>
+<p><span id="more-14840"></span></p>
+<p>La votación del jueves pasado no tiene efectos jurídicos inmediatos en el plano internacional. La salida del Reino Unido de la UE se desglosará en un procedimiento de negociación, regulado por el Tratado de Lisboa, que durará probablemente dos años.<br />
+Hasta entonces, fundamentalmente debería seguir en vigor el corpus normativo actual, con especial referencia a la libre circulación de mercancías y personas y a la permanencia de una unión aduanera.</p>
+<p>Lo confirma también la nota de la asociación de consumidores ingleses “Which” en su propio sitio web, que reza, en inglés: “<em>How will Brexit affect your consumer rights? No immediate change to your consumer rights. The negotiations around our withdrawal from the EU will be lengthy and there will be no immediate change to your consumer rights when you buy or sell goods and services, or travel abroad</em>”.</p>
+<p>En relación con el e-commerce, se continuarán aplicando también con relación a las ventas a consumidores británicos:</p>
+<ol>
+<li>El plazo mínimo de 14 (catorce) días para la entrega de los productos adquiridos a distancia (plasmado en la Consumer Contract Regulation 2013, que transpuso en el Reino Unido la Directiva 2011/83/UE sobre los derechos de los consumidores);</li>
+<li>La garantía legal relativa a los defectos ocultos de los productos (que, en el Reino Unido, tiene una duración de seis años desde la entrega de los productos, aunque, tras seis meses a partir de dicha entrega, la carga de la prueba referente a que los productos eran ya defectuosos en la entrega pasa al consumidor, haciéndola bastante difícil —como se dispone en la Consumer Rights Act 2015—);</li>
+<li>El régimen de la venta a distancia (con arreglo al que los vendedores online que envían productos a consumidores ingleses desde la UE deben registrarse a efectos del IVA en el Reino Unido en el supuesto de que superen el umbral de 70 000 £ de facturación anual);</li>
+<li>El régimen del Mini-One-Stop-Shop (MOSS), para la declaración y el ingreso del IVA sobre la venta a consumidores europeos de productos digitales (por ejemplo, descargas de música o programas informáticos, acceso a bases de datos digitales, etc.).</li>
+</ol>
+<p>Tras la salida forma del Reino Unido de la UE, todo dependerá de las políticas que decidan aplicar ambas partes, tanto unilateralmente como a través de acuerdos y tratados.</p>
+<p>Quizá, a medio plazo, el Reino Unido pase a ocupar un estatus jurídico y fiscal similar al de Noruega y Suiza desde el punto de vista del comercio europeo, con la presencia de un régimen de libre intercambio desde y hacia la UE. Tal extremo implicaría de todas maneras la existencia de una barrera aduanera, aunque solo desde la vertiente administrativa y del IVA.</p>
+<p>Sin lugar a dudas, ¡no es ponérselo más fácil a las pequeñas tiendas online!</p>
+<p>El abogado Alan Rhode es cofundador de Taxmen.eu, una sociedad especializada en el asesoramiento jurídico y fiscal para el e-commerce con sede en Londres (Reino Unido). Tras atesorar experiencia en despachos de abogados internacionales, en 2012 Alan pasó a ser socio de Taxmen, tax and legal for eCommerce, la red internacional especialista en servicios jurídicos y fiscales para los operadores de e-commerce. Entre los clientes de la red se cuentan minoristas de moda, operadores logísticos, agencias de e-commerce y sociedades de consultoría. Alan es profesor auxiliar de Derecho fiscal en la Universidad Bocconi y en la Universidad de Milán (Italia). Recientemente, ha participado como docente en el Máster de formación ejecutiva titulado &#8220;<em>Digital economy: profili legali fiscali dei nuovi modelli di business</em>&#8221; de la Escuela de Administración Bocconi.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/brexit-que-va-cambiar-para-el-e-commerce-desde-un-punto-de-vista-legal-y-fiscal/">Brexit: ¿qué va a cambiar para el e-commerce desde un punto de vista legal y fiscal?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/brexit-que-va-cambiar-para-el-e-commerce-desde-un-punto-de-vista-legal-y-fiscal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seis tácticas inteligentes de precios competitivos para empresas de e-commerce &#8211; parte 1/2</title>
+		<link>https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-12/</link>
+		<comments>https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-12/#comments</comments>
+		<pubDate>Thu, 07 Jul 2016 07:34:19 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14831</guid>
+		<description><![CDATA[<p>Una política de precios competitivos en el ámbito del e-commerce no sólo consiste en ajustarlos o en vender más barato que la competencia. Mediante la tecnología de inteligencia competitiva adecuada, las empresas de e-commerce pueden ir mucho más allá y fijar unos precios competitivos de un modo más analítico y rentable. Hoy voy a mostrar [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-12/">Seis tácticas inteligentes de precios competitivos para empresas de e-commerce &#8211; parte 1/2</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Una política de precios competitivos en el ámbito del e-commerce no sólo consiste en ajustarlos o en vender más barato que la competencia.</strong></p>
+<p>Mediante la tecnología de inteligencia competitiva adecuada, las empresas de e-commerce pueden ir mucho más allá y fijar unos precios competitivos de un modo más analítico y rentable. Hoy voy a mostrar cómo conseguirlo centrándose en algunos aspectos empresariales que suelen descuidarse en el ámbito del e-commerce.</p>
+<p><span id="more-14831"></span></p>
+<p>En concreto, compartiré seis casos comerciales que demuestran que las empresas de e-commerce de cualquier tamaño pueden enfrentarse y superar a sus competidoras con tácticas de precios competitivos. No hace falta rebajarlos y mermar los márgenes de beneficio. Mostraré cómo implantar acciones rápidas e inteligentes basándose en <a href="https://prisync.com/" target="_blank">tecnologías de monitorización automatizada de los precios de la competencia</a>.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/07/6SmartCompetitivePricingTactics_2.png"><img class="alignnone size-full wp-image-14833" alt="6SmartCompetitivePricingTactics_2" src="https://www.prestashop.com/blog/es/files/2016/07/6SmartCompetitivePricingTactics_2.png" width="975" height="732" /></a></p>
+<h2><span style="color: #3d698e">1- Sigue siendo competitivo a la par que rentable</span></h2>
+<p>Ninguna empresa de e-commerce puede sobrevivir ignorando <a href="https://www.quora.com/What-are-the-standard-operating-costs-for-running-an-e-commerce-website" target="_blank">los costes</a> y centrándose exclusivamente en la competencia. Para todas ellas, los precios de sus competidoras y los costes de los productos son fuerzas contrapuestas que inciden en los precios de los productos. La rentabilidad debería ser un objetivo para las firmas de e-commerce de cualquier tamaño y, para ello, éstas han de controlar siempre <a href="http://www.ecorner.com.au/FAQs-Questions-Ideas-Centre/Costs-Issues-Starting-An-eCommerce-Online-Business#.V17PYeZ96Rs" target="_blank">sus costes</a>. <span style="text-decoration: underline">Sobre todo cuando</span> ajustamos los precios de forma competitiva en función de los de la competencia.<br />
+En lugar de vender más barato que la competencia siempre que sea posible (sin importar el coste), las firmas de e-commerce deberían analizar sus costes para lograr una competitividad sostenible y a largo plazo.</p>
+<p>Cuando tus precios no son competitivos en comparación con la media del mercado, puedes solucionarlo no sólo bajándolos sino, lo que es más importante, tratando de encontrar maneras de <strong>reducir costes en las etapas previas de la cadena</strong>. Sólo después de haber reducido tus propios costes, deberías ofrecer más descuentos o precios más bajos a los clientes.</p>
+<h2><span style="color: #3d698e">2 &#8211; Nunca infravalores tus productos y busca activamente oportunidades para subir los precios </span></h2>
+<p>Incluso si puedes vender tus productos a un precio muy competitivo en comparación con los de tus competidores, no es bueno pasarse.</p>
+<p>Esos precios bajos llamarán la atención de los compradores, lo que podría derivar en clientes potenciales. Pero, ¿dónde está el límite? Si el cliente busca encontrar la mejor oferta online, ¿por qué no situar el precio de tu producto en la horquilla superior de los precios más bajos? Dicho de otro modo, plantéate subir tus precios hasta igualar prácticamente los del segundo competidor más barato, pero manteniéndote por debajo.</p>
+<p>Para <a href="https://www.prestashop.com/blog/en/top-5-tips-for-price-comparison-sites/" target="_blank">los motores de comparación de compras</a>, y para los propios compradores online, estos incrementos de precios no marcan la diferencia. Sin embargo, a ti te proporcionará mayores márgenes de beneficio que impulsarán el balance. Y lo mejor de todo: este aumento de precios no le costará nada a tu empresa.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/07/6SmartCompetitivePricingTactics_3.png"><img class="alignnone size-full wp-image-14835" alt="6SmartCompetitivePricingTactics_3" src="https://www.prestashop.com/blog/es/files/2016/07/6SmartCompetitivePricingTactics_3.png" width="975" height="684" /></a></p>
+<h2><span style="color: #3d698e">3- Analiza la categoría de tu competidor y las estrategias de precios a nivel de marca</span></h2>
+<p>En la mayoría de los casos, los precios en el segmento del e-commerce vienen determinados por la categoría o las decisiones a nivel de marca. Esto puede deberse a las operaciones de presupuesto dentro de una compañía, o a acuerdos formalizados con proveedores para determinadas marcas, etc. Cuando tenemos en cuenta este hecho, centrarse exclusivamente en monitorizar los precios de los productos de la competencia y microgestionar los nuestros puede parecer un poco aburrido.</p>
+<p>Con las tecnologías adecuadas, las compañías de e-commerce pueden obtener información sobre precios de sus competidores atendiendo a la marca y la categoría. Aquí hay que buscar el método de la agregación, es decir, agrupar productos bajo una determinada marca o categoría y calcular su rendimiento global en términos de precios para cada sitio. Calcular un valor de índice para el nivel agregado (una categoría o marca) te dará una idea del desempeño de una empresa teniendo en cuenta la política de precios para una determinada categoría y marca frente a sus competidores.</p>
+<p>Este análisis puede poner de manifiesto qué competidores tienen importantes ventajas en cuanto a precios en qué marcas/categorías y cuáles no las tienen. Las empresas de e-commerce pueden actuar basándose en estos resultados comparativos y ajustar sus niveles de precios en función de la categoría general y de estrategias de gestión de marca.</p>
+<p>¿Quieres obtener más información sobre tácticas de precios competitivos? Echa un vistazo a la segunda parte de este artículo.</p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>Sobre el autor</strong></p>
+<p><img class="size-full wp-image-14834 alignleft" alt="6SmartCompetitivePricingTactics_4" src="https://www.prestashop.com/blog/es/files/2016/07/6SmartCompetitivePricingTactics_4.png" width="144" height="177" />Burc Tanir es un incondicional de las pymes, el e-commerce es su religión y es consejero delegado de Prisync.com, el software de seguimiento de precios de competidores, actualmente utilizado por empresas en más de 40 países.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-12/">Seis tácticas inteligentes de precios competitivos para empresas de e-commerce &#8211; parte 1/2</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/seis-tacticas-inteligentes-de-precios-competitivos-para-empresas-de-e-commerce-parte-12/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Detectando tus mejores URLs y potenciando el SEO de tus otras URLs</title>
+		<link>https://www.prestashop.com/blog/es/detectando-tus-mejores-urls-y-potenciando-el-seo-de-tus-otras-urls/</link>
+		<comments>https://www.prestashop.com/blog/es/detectando-tus-mejores-urls-y-potenciando-el-seo-de-tus-otras-urls/#comments</comments>
+		<pubDate>Wed, 06 Jul 2016 06:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+		<category><![CDATA[Internal linking]]></category>
+		<category><![CDATA[Seo]]></category>
+		<category><![CDATA[URLs]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14653</guid>
+		<description><![CDATA[<p>Si os suena el término internal linking o enlazado interno, seguramente os sonará el link juice. El link juice es el nombre con el que se denomina al “poder de ranking” que tienen algunas URLs para pasar autoridad a otras URLs del site o, lo que es lo mismo, la técnica que facilita pasarle peso [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/detectando-tus-mejores-urls-y-potenciando-el-seo-de-tus-otras-urls/">Detectando tus mejores URLs y potenciando el SEO de tus otras URLs</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si os suena el término <a href="https://moz.com/learn/seo/internal-link">internal linking</a> o enlazado interno, seguramente os sonará <a href="https://www.woorank.com/es/edu/seo-guides/que-es-el-link-juice">el link juice</a>. El link juice es el nombre con el que se denomina al “poder de ranking” que tienen algunas URLs para pasar autoridad a otras URLs del site o, lo que es lo mismo, la técnica que facilita pasarle peso SEO a otras URLs de su site derivando su “zumo de poder de ranking” a través de enlaces internos.</p>
+<p><span id="more-14653"></span></p>
+<p>Veámoslo con un ejemplo:</p>
+<ul>
+<li>Tengo una URL muy bien posicionada para una palabra clave que tiene 27.000 búsquedas al mes</li>
+<li>Dicha URL tiene muchas visitas y tiene un gran peso en los rankings</li>
+<li>Si desde esa URL planto un enlace follow a otra URL del site, le estoy pasando parte de ese peso SEO</li>
+</ul>
+<h2>¿Cómo detectar esas URLs?</h2>
+<p>Aquí es donde viene el meollo del post. Detectar esas URLs puede ser fácil o difícil, depende de los softwares que uses y del dinero que tengas. Detectar mis mejores URLs con <a href="https://www.sistrix.es/">Sistrix</a>, por ejemplo, es muy fácil. Entro en mi URL y busco este informe:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/1-mejores-urls.jpg"><img class="alignnone size-full wp-image-14659" alt="1-mejores-urls" src="https://www.prestashop.com/blog/es/files/2016/06/1-mejores-urls.jpg" width="527" height="229" /></a></p>
+<p>Claramente <b>tengo 2 URLs super potentes y otras 4 que lo son bastante también</b>. La lógica nos dice que en un ecommerce, esas URLs serán la home (seguro) y las principales categorías. La estructura de fuerza de estos enlaces suele ser piramidal y responde a la jerarquía de (casi) todo ecommerce que podemos ver representada en <a href="https://blog.kissmetrics.com/seo-for-ecommerce-websites/">este gráfico de este post de Kissmetrics</a>.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/11-pet-food.png"><img class="alignnone size-full wp-image-14670" alt="11-pet-food" src="https://www.prestashop.com/blog/es/files/2016/06/11-pet-food.png" width="1109" height="636" /></a></p>
+<h2><b>Pero, ¿qué hacer si no tengo un software de pago?</b></h2>
+<p>&nbsp;</p>
+<p>Lo principal es tener una cuenta de <a href="https://www.google.com/intl/es/analytics/">Google Analytics</a> (software gratuito de métricas de Google) enchufada y configurada en nuestro site. Dentro de nuestro Analytics, podemos hacernos una idea de <b>cuáles son las mejores URLs a nivel de SEO</b> de nuestro site. Vamos al reporte Adquisición &gt; Campañas &gt; Palabras clave orgánicas:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/2-analytics.jpg"><img class="alignnone size-full wp-image-14660" alt="2 - analytics" src="https://www.prestashop.com/blog/es/files/2016/06/2-analytics.jpg" width="270" height="362" /></a></p>
+<p>Dentro de ese reporte tenemos todo el tráfico orgánico de nuestro site. Podemos asegurarnos de que el <b>código de Analytics está bien puesto en todas las páginas de nuestro site</b> usando una herramienta gratuita como, por ejemplo <a href="http://www.gachecker.com/">GA Checker</a>.</p>
+<p>Dentro de ese informe de Google Analytics correspondiente a las palabras clave orgánicas, tenemos las <a href="https://support.google.com/analytics/answer/1033861?hl=es">dimensiones secundarias</a>, donde tenemos las páginas de destino:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/3.jpg"><img class="alignnone size-full wp-image-14661" alt="3" src="https://www.prestashop.com/blog/es/files/2016/06/3.jpg" width="411" height="30" /></a></p>
+<p>Una vez hemos seleccionado ese reporte, veremos algo como esto (seleccionando los últimos 6 meses en el panel que tenemos en Analytics):</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/4.jpg"><img class="alignnone size-full wp-image-14662" alt="4" src="https://www.prestashop.com/blog/es/files/2016/06/4.jpg" width="333" height="320" /></a></p>
+<p>En nuestro caso y como ya hemos visto en Sistrix, tenemos <b>2 URLs muy potentes</b>, que suponen el 26,5% y el 12,9% de las visitas de SEO a nuestro site. Eso es una muy buena potencia a nivel de posicionamiento orgánico y son páginas en las que, sin duda, podemos explotar el interenlazado.</p>
+<p>Si queremos ir más allá, podemos sacar incluso la autoridad de página (<a href="https://moz.com/learn/seo/page-authority">un score de 0 a 100 creado por la empresa Moz</a>) para saber cuáles son las páginas más potentes en relación a esa métrica.</p>
+<p>Dentro de la misma página de Analytics, cambiamos la paginación a 100:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/5.png"><img class="alignnone size-full wp-image-14663" alt="5" src="https://www.prestashop.com/blog/es/files/2016/06/5.png" width="367" height="158" /></a></p>
+<p>Y exportamos el informe en <b>Excel.</b></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/6.png"><img class="alignnone size-full wp-image-14664" alt="6" src="https://www.prestashop.com/blog/es/files/2016/06/6.png" width="486" height="296" /></a></p>
+<p>Esas URLs del Excel, las pasaremos ahora por una herramienta gratuita que existe online y que se llama <a href="http://www.robingupta.com/bulk-domain-authority-checker.html">Bulk Domain Authority Checker</a> y que nos saca datos como:</p>
+<ul>
+<li>Autoridad de dominio (DA)</li>
+<li>Autoridad de página (PA)</li>
+<li>Moz Rank (similar al pagerank, pero para Moz)</li>
+<li>Dirección IP</li>
+</ul>
+<p>Estos datos son similares a los que se pueden sacar desde <a href="https://moz.com/researchtools/ose/">Open Site Explorer</a>, aunque aquí podemos <b>sacarlos de 100 en 100 y sin límite de consultas diarias</b>. El report que sacamos es algo así:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/7.jpg"><img class="alignnone size-full wp-image-14665" alt="7" src="https://www.prestashop.com/blog/es/files/2016/06/7.jpg" width="675" height="303" /></a></p>
+<p>Parecido a lo que podemos hacer URL por URL con Open Site Explorer:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/8.jpg"><img class="alignnone size-full wp-image-14666" alt="8" src="https://www.prestashop.com/blog/es/files/2016/06/8.jpg" width="950" height="272" /></a></p>
+<p>Así podemos ver el <b>potencial de algunas de nuestras páginas</b>.</p>
+<p>En mi caso, resulta que la tercera, cuarta y quinta página con más tráfico a nivel de SEO, tienen mayor PA (Page Authority) que la primera y segunda. Ajá. Y, ¿por qué puede ser eso? Pues, entre otras cosas, porque <b>he dirigido enlaces externos</b> (backlinks y de los buenos) a dichas URLs. Así que me interesan tanto esas terceras, cuartas y quintas páginas tanto como la primera y segunda <img src="https://www.prestashop.com/blog/es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<h2><b>¿Y ahora qué? Pasando potencia SEO a otras URLs<br />
+</b></h2>
+<p>Una de las cosas que podemos hacer, una vez tenemos las mejores URLs de nuestro site, es <b>enlazar desde ahí a otras URLs que queramos potenciar a nivel de tráfico orgánico</b>. Un clásico es utilizar las descripciones de nuestras categorías más potentes para enlazar subcategorías que queramos potenciar o, por ejemplo, enlazar desde esa misma descripción algunas de las páginas de marca que queramos potenciar y que tengan productos dentro de esa misma categoría. Esto, en resumidas cuentas, sería potenciar el enlazado interno.</p>
+<p>La idea es que las URLs principales, potencien el “poder SEO” a otras URLs que tengan buen potencial (que estén en las posiciones entre 5 y 20 de Google.es para alguna keyword, por ejemplo). ¿Cómo podemos saber qué URLs son esas? Eso podemos hacerlo utilizando una de las consultas gratuitas diarias que nos da la herramienta <a href="https://semrush.com/">SEMRush</a>. Introducimos en SEMRush nuestro nombre de dominio. Vamos a simularlo con Prestashop.com:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/9.jpg"><img class="alignnone size-full wp-image-14667" alt="9" src="https://www.prestashop.com/blog/es/files/2016/06/9.jpg" width="902" height="267" /></a></p>
+<p>Dentro del informe que nos da SEMRush, vayamos a “Investigación orgánica”, en el panel de la izquierda.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/10.jpg"><img class="alignnone size-full wp-image-14668" alt="10" src="https://www.prestashop.com/blog/es/files/2016/06/10.jpg" width="246" height="314" /></a></p>
+<p>Ese informe <b>nos dará información de solo 10 keywords y URLs</b>. Si queremos el informe completo, hay que ir a uno de los planes de pago. Dentro de las keywords que veo, tengo una que tiene buena pinta: “Google Shopping” en la posición 9 y que tienen 9.900 búsquedas mensuales para Google España.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/11.jpg"><img class="alignnone size-full wp-image-14669" alt="11" src="https://www.prestashop.com/blog/es/files/2016/06/11.jpg" width="649" height="511" /></a></p>
+<p>&nbsp;</p>
+<p>Esa sería una de las URLs que necesitaría enlazar desde una de mis URLs con mayor potencial SEO (y con el anchor text “Google Shopping”, claro), como podrían ser la home page o una de las páginas más potentes a nivel de SEO de Prestashop. ¿Cuál será? Pues en Sistrix (aquí sí tenemos que pagar), tenemos las principales:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/12.jpg"><img class="alignnone size-full wp-image-14658" alt="12" src="https://www.prestashop.com/blog/es/files/2016/06/12.jpg" width="539" height="246" /></a></p>
+<p>Home de español, página de traducciones… Si enlazamos desde ahí  la URL de “Google Shopping” (ojo, siempre que tenga sentido hacerlo), potenciaremos dicha keyword pasándole un buen empujón a nivel de SEO.</p>
+<p>Así pues, ahora que ya sabéis cómo hacerlo, a por vuestras URLS <img src="https://www.prestashop.com/blog/es/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<p>Si quieres ver más manuales y tutoriales míos puedes encontrar una recopilación de los mejores en este post de mi blog dedicado a los <a href="http://jordiob.com/manuales-de-prestashop/">manuales de Prestashop</a>.</p>
+<p>Sobre el autor:<br />
+<a href="https://www.prestashop.com/blog/es/files/2015/07/jordi.jpg"><img class=" wp-image-13125 alignleft" alt="Jordi" src="https://www.prestashop.com/blog/es/files/2015/07/jordi.jpg" width="80" height="75" /></a></p>
+<p>Jordi Ordóñez, consultor en eCommerce con 15 años de experiencia en proyectos online (<a href="http://www.jordiob.com">www.jordiob.com</a>). Formador en eCommerce para empresas y particulares.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/detectando-tus-mejores-urls-y-potenciando-el-seo-de-tus-otras-urls/">Detectando tus mejores URLs y potenciando el SEO de tus otras URLs</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/detectando-tus-mejores-urls-y-potenciando-el-seo-de-tus-otras-urls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seis diseños web desfasados de los que te tienes que olvidar de una vez por todas</title>
+		<link>https://www.prestashop.com/blog/es/seis-disenos-web-desfasados-de-los-que-te-tienes-que-olvidar-de-una-vez-por-todas/</link>
+		<comments>https://www.prestashop.com/blog/es/seis-disenos-web-desfasados-de-los-que-te-tienes-que-olvidar-de-una-vez-por-todas/#comments</comments>
+		<pubDate>Thu, 30 Jun 2016 09:01:01 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14797</guid>
+		<description><![CDATA[<p>Antaño, los sitios web usaban efectos y animaciones para atraer la atención de los usuarios. Pero en 2017 esos trucos ya no funcionan. Hoy los usuarios conocen muy bien la red y su trepidante ritmo de vida reduce su capacidad de atención al mínimo. ¡Tienes apenas 15 segundos para captar su interés! Esa evolución ha [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seis-disenos-web-desfasados-de-los-que-te-tienes-que-olvidar-de-una-vez-por-todas/">Seis diseños web desfasados de los que te tienes que olvidar de una vez por todas</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Antaño, los sitios web usaban efectos y animaciones para atraer la atención de los usuarios. Pero en 2017 esos trucos ya no funcionan.</p>
+<p>Hoy los usuarios conocen muy bien la red y su trepidante ritmo de vida reduce su capacidad de atención al mínimo. ¡Tienes apenas 15 segundos para captar su interés! Esa evolución ha llevado al diseño web a centrarse en ofrecer una mejor experiencia al usuario&#8230; sin agobiarlo para que no salga corriendo.</p>
+<p><span id="more-14797"></span></p>
+<p>¿Tu sitio web ya tiene unos añitos? ¿Necesitas consejo sobre lo que no hay que hacer en cuestión de diseño? Aquí tienes seis tendencias totalmente anticuadas de las que debes huir.</p>
+<h2 style="color: #555C8A;">1. Imágenes de archivo poco realistas</h2>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/1-outdated.jpg"><img class="aligncenter size-full wp-image-14799" alt="1 outdated" src="https://www.prestashop.com/blog/es/files/2016/06/1-outdated.jpg" width="568" height="370" /></a></p>
+<p>Las imágenes de archivo son útiles para presentar ideas pero tienen un problema: algunos sitios recurren a fotos estereotipadas y abusan de ellas.</p>
+<p>¿El resultado? Páginas repletas de trabajadores sonrientes y comerciales casi etéreos respondiendo al teléfono con los auriculares puestos&#8230; un estilo anticuado y artificial.<br />
+El objetivo de las imágenes es transmitir credibilidad, pero con el material de archivo se consigue justo lo contrario. Se ha abusado tanto de este recurso, que los usuarios ya se conocen hasta las caras. Y cada vez que se topan con el típico hombre de negocios vestido de traje, lo rechazan inmediatamente y se hacen una idea negativa de tu sitio web.</p>
+<p>¿Quieres que tu empresa proyecte credibilidad? Recurre a un fotógrafo profesional. Si no te llega el presupuesto, evita al menos las fotos de archivo más manidas y busca otras más pertinentes.</p>
+<h2 style="color: #555C8A;">2. Introducción en Flash</h2>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/2-outdated.jpg"><img class="aligncenter size-full wp-image-14800" alt="2 outdated" src="https://www.prestashop.com/blog/es/files/2016/06/2-outdated.jpg" width="568" height="370" /></a></p>
+<p>Adobe Flash es una plataforma de desarrollo para crear juegos y animaciones web. Aunque fue muy popular hace unos años, ahora es uno de los elementos que hay que evitar a toda costa.</p>
+<p>Los sitios en Flash tardan mucho en cargar, son incompatibles con los teléfonos y tienen requisitos de sistema específicos&#8230; en resumen, son una muestra innecesaria de creatividad que ahuyenta a los usuarios. Además, a Google no le gusta, así que usar Flash es tirar piedras contra el tejado de la optimización para buscadores.</p>
+<h2 style="color: #555C8A;">3. Ventanas emergentes</h2>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/3-outdated.jpg"><img class="aligncenter size-full wp-image-14801" alt="3 outdated" src="https://www.prestashop.com/blog/es/files/2016/06/3-outdated.jpg" width="568" height="370" /></a></p>
+<p>Son el elemento más frustrante de un sitio web. Da igual si son para registrar un correo, suscribirse al boletín o anunciar una promoción: ¡son exasperantes y disipan el interés del usuario!</p>
+<p>Aunque hay publicistas que piensan lo contrario, los internautas llegan a tu sitio en busca de información y los pop-ups dificultan mucho la tarea. Otra desventaja: son difíciles de cerrar desde el teléfono.</p>
+<p>¿Quieres promocionar tu boletín o conseguir correos de contacto? Usa otra zona del sitio web y convence a los usuarios con incentivos.</p>
+<h2 style="color: #555C8A;">4. Carruseles de imágenes</h2>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/4-outdated.jpg"><img class="aligncenter size-full wp-image-14802" alt="4 outdated" src="https://www.prestashop.com/blog/es/files/2016/06/4-outdated.jpg" width="590" height="216" /></a></p>
+<p>Los carruseles llegaron a arrasar, pero hoy los diseñadores los ven con otros ojos. Normalmente solo tienes unos segundos para captar el interés del visitante, así que si dejas algo importante para la tercera imagen del carrusel&#8230; ese cliente potencial se lo perderá.</p>
+<p>Atrae la atención del visitante con una única imagen perfecta y añade contenido adecuado para explicar tu mensaje.</p>
+<h2 style="color: #555C8A;">5. Fuentes pasadas de moda</h2>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/5-outdated.jpg"><img class="aligncenter size-full wp-image-14804" alt="5 outdated" src="https://www.prestashop.com/blog/es/files/2016/06/5-outdated.jpg" width="568" height="370" /></a></p>
+<p>La tipografía también es cuestión de modas. Así que si no quieres que tu sitio parezca del siglo pasado, aléjate de fuentes como Comic Sans, Times New Roman y las cursivas. El efecto de bisel y relieve (una opción de Photoshop para darle un aspecto tridimensional al texto) también está en la lista de los prohibidos.</p>
+<p>Apuesta por los diseños planos, los elementos vectoriales y una interfaz limpia. ¡Y no uses más de tres fuentes para todo tu sitio web!</p>
+<h2 style="color: #555C8A;">6. Diseño esqueumórfico</h2>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/06/6-outdated.jpg"><img class="aligncenter size-full wp-image-14803" alt="6 outdated" src="https://www.prestashop.com/blog/es/files/2016/06/6-outdated.jpg" width="568" height="370" /></a></p>
+<p>Este tipo de diseño usa elementos que se basan en productos reales. Por ejemplo, una librería online que parece una estantería de una tienda clásica: eso es un diseño esqueumórfico. Este estilo popularizado por iPhone ya está desfasado. Ahora se imponen las tendencias planas y minimalistas. Ya te deshiciste de los sombreados y los gradientes&#8230; ahora toca olvidarse de estos diseños brillantes.</p>
+<p>¿Tu sitio web tiene más de dos de estos elementos de diseño desfasados? Va siendo hora de pensar en renovarlo. Ponte en contacto con una de nuestras agencias web y pide una segunda opinión. ¿Algún otro diseño que estés cansado de ver? Cuéntanoslo: ¡los comentarios son todo tuyos!</p>
+<hr />
+<strong>Acerca del autor:</strong></p>
+<p>SHAMLATECH es una agencia global de servicios empresariales que lleva más de ocho años cosechando clientes satisfechos. Sus servicios incluyen desarrollo de sitios web, tiendas online y aplicaciones móviles, además de marketing digital.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seis-disenos-web-desfasados-de-los-que-te-tienes-que-olvidar-de-una-vez-por-todas/">Seis diseños web desfasados de los que te tienes que olvidar de una vez por todas</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/seis-disenos-web-desfasados-de-los-que-te-tienes-que-olvidar-de-una-vez-por-todas/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Atrae clientes con una tienda online:  Entrevista con Rachel Bouchon de atelier-amour.com</title>
+		<link>https://www.prestashop.com/blog/es/atrae-clientes-con-una-tienda-online-entrevista-con-rachel-bouchon-de-atelier-amour-com/</link>
+		<comments>https://www.prestashop.com/blog/es/atrae-clientes-con-una-tienda-online-entrevista-con-rachel-bouchon-de-atelier-amour-com/#comments</comments>
+		<pubDate>Tue, 28 Jun 2016 08:14:52 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14770</guid>
+		<description><![CDATA[<p>Rachel Bouchon ha convertido su experiencia en el sector de la lencería en un floreciente negocio online: atelier-amour.com es una empresa innovadora que tiene por vocación crear artículos de lencería para regalar a alguien especial o a uno mismo. En la entrevista de hoy, Rachel comparte con nosotros algunos consejos para sentar las bases de [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/atrae-clientes-con-una-tienda-online-entrevista-con-rachel-bouchon-de-atelier-amour-com/">Atrae clientes con una tienda online:  Entrevista con Rachel Bouchon de atelier-amour.com</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Rachel Bouchon ha convertido su experiencia en el sector de la lencería en un floreciente negocio online: atelier-amour.com es una empresa innovadora que tiene por vocación crear artículos de lencería para regalar a alguien especial o a uno mismo. En la entrevista de hoy, Rachel comparte con nosotros algunos consejos para sentar las bases de una web eficaz que atraiga a los clientes desde el principio.<br />
+<span id="more-14770"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/-dFjWdtpx3U?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch&amp;utm_content=atelieramour" target="_blank"><i class="fa fa-youtube-play"></i>  Ver más vídeos</a></div>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/atrae-clientes-con-una-tienda-online-entrevista-con-rachel-bouchon-de-atelier-amour-com/">Atrae clientes con una tienda online:  Entrevista con Rachel Bouchon de atelier-amour.com</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/atrae-clientes-con-una-tienda-online-entrevista-con-rachel-bouchon-de-atelier-amour-com/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Las nueve funcionalidades indispensables de una tienda online de moda y accesorios</title>
+		<link>https://www.prestashop.com/blog/es/las-nueve-funcionalidades-indispensables-de-una-tienda-online-de-moda-y-accesorios/</link>
+		<comments>https://www.prestashop.com/blog/es/las-nueve-funcionalidades-indispensables-de-una-tienda-online-de-moda-y-accesorios/#comments</comments>
+		<pubDate>Thu, 23 Jun 2016 08:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14672</guid>
+		<description><![CDATA[<p>Ya conoces perfectamente las particularidades del comercio online de moda (ropa, calzado, accesorios, etc.): experiencia simple, fluida y móvil, un aspecto atrayente, etc. El objetivo de PrestaShop es acompañarte en el camino al éxito del e-commerce. Además, hemos seleccionado para ti los mejores módulos que puedes utilizar en tu tienda online para adaptarte a esas [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/las-nueve-funcionalidades-indispensables-de-una-tienda-online-de-moda-y-accesorios/">Las nueve funcionalidades indispensables de una tienda online de moda y accesorios</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ya conoces perfectamente las particularidades del comercio online de moda (ropa, calzado, accesorios, etc.): experiencia simple, fluida y móvil, un aspecto atrayente, etc.<br />
+El objetivo de PrestaShop es acompañarte en el camino al éxito del e-commerce.<br />
+Además, hemos seleccionado para ti los mejores módulos que puedes utilizar en tu tienda online para adaptarte a esas particularidades del sector.<br />
+¡Inspírate en las mejores prácticas de e-commerce para optimizar tu tienda de moda!</p>
+<p><span id="more-14672"></span></p>
+<h2>Navegación adaptada a los usuarios</h2>
+<p><strong>Diseño web adaptable</strong><br />
+En el sector de la moda, existe entre un 45 % y un 60 % de clientes que utilizan dispositivos móviles tanto como para echar un vistazo antes de comprar como para comprar directamente. ¡No te olvides de ellos!<br />
+Elige un <a href="http://addons.prestashop.com/es/47-temas-moda-calzado" target="_blank">tema gráfico adaptable</a> para estos posibles clientes que se salen de la norma.</p>
+<p><em>Truco: utiliza filtros para elegir el estilo de diseño de tu tienda (elegante, minimalista, moderno, etc.).</em></p>
+<p><em></em><strong>Desplazamiento de pantalla infinito</strong><br />
+Como hacen las firmas de moda más importantes, deja que tus clientes vean tu colección sin tener que cambiar de página cada poco tiempo. Reduce la cantidad de clics necesarios y facilita la navegación de tus clientes para captar su atención solo de tus productos con la funcionalidad de <a href="http://addons.prestashop.com/es/17439-infinite-scroll-premium.html" target="_blank">desplazamiento de pantalla infinito</a>.</p>
+<p><strong>Visualización de los productos por colores</strong><br />
+¿Están tus productos disponibles en varios colores? Mejora las categorías de tus páginas mostrando todos los modelos de tus productos. Imagina que un visitante busca un vestido rojo. Con solo un vistazo de una página de categoría, encontrará su favorito. Sin esta funcionalidad, la navegación se complica y se verá obligado a hacer clic en cada vestido para comprobar si el color rojo está disponible. Tienes que evitar a toda costa que se desanime y se marche de tu sitio <a href="http://addons.prestashop.com/es/20451-products-by-attributes.html" target="_blank">mostrando todos tus productos por modelos</a>.</p>
+<p><strong>Filtros, segmentos y marcas</strong><br />
+Para los usuarios, es más cómodo y más rápido seleccionar los filtros (tipo de producto, talla, color, etc.) para ver solamente los productos que hay disponibles en la tienda. Para ofrecer esta opción en tu sitio web, puedes utilizar las <a href="http://addons.prestashop.com/es/510-busquedas-filtros" target="_blank">herramientas de filtros, búsqueda y navegación por segmentos</a>.<br />
+¿Eres un distribuidor? No olvides ofrecer la opción de <a href="http://addons.prestashop.com/es/512-marcas-fabricantes" target="_blank">navegación por marca</a> a los usuarios para conseguir el mayor número de conversiones posible.</p>
+<p><em>Truco de experto: La tienda MODZ ha incrementado su tasa de conversión en un 37 % y su tasa de segundas visitas en un 25 % ofreciendo una búsqueda por filtros con el fin de dirigir a los usuarios directamente a los productos de sus tallas.</em></p>
+<h2>Satisfacción de los clientes y reducción de devoluciones de producto</h2>
+<p><strong>Guía de tallas</strong><br />
+La utilizan el 90 % de las tiendas online más conocidas. Tanto si vendes vestidos, lencería, joyas, cinturones, etcétera, proponer una <a href="http://addons.prestashop.com/es/22779-size-guide.html" target="_blank">guía de tallas</a> a los clientes te permitirá guiarles hasta el modelo que mejor se adapte a ellos para optimizar la satisfacción de los clientes, sobre todo para reducir el trabajo del servicio posventa.</p>
+<p><strong>Composición de los productos</strong><br />
+No dudes en indicar claramente la <a href="http://addons.prestashop.com/es/19273-compositions-and-materials.html" target="_blank">composición de los productos</a>, los materiales de fabricación e incluso las instrucciones de lavado. Comprobación de la calidad de los productos, alergias a determinados materiales… Existen numerosos motivos para hacerlo, pero cabe destacar especialmente dos de ellos:<br />
+- Cuantos más detalles incluyas en las fichas de los productos, menos devoluciones de productos recibirás.<br />
+- Las fichas completas optimizan tu posicionamiento natural.<br />
+¡Son tantas las ventajas&#8230;!</p>
+<h2>Estímulos para la compra</h2>
+<p><strong>Imágenes</strong><br />
+Todos los clientes quieren ver, tocar y probarse los productos antes de comprar. En el e-commerce la vista sustituye al tacto. Por ello, es imprescindible incluir:</p>
+<ul>
+<li>imágenes de alta calidad (al menos dos por producto) y</li>
+<li><a href="http://addons.prestashop.com/es/1914-magic-zoom-plus.html" target="_blank">zoom</a> para que puedan apreciar mejor el material y el color de los productos.</li>
+</ul>
+<p><em>Truco de experto: Etam ha anunciado un aumento del 15 % de sus ventas online tras incluir imágenes de sus conjuntos de lencería en las páginas de categorías. Ahora los clientes disponen de una mejor percepción del producto y se animan más a hacer clic en las fichas.</em></p>
+<p><em></em><strong>Etiquetas e insignias para destacar tus productos<br />
+</strong>&#8220;Más vendidos&#8221;, &#8220;Favoritos&#8221;, &#8220;Promoción&#8221;, &#8220;Entrega prioritaria&#8221;, etc. Al añadir <a href="http://addons.prestashop.com/es/20844-etiqueta-de-producto.html" target="_blank">insignias personalizables a los productos</a>, podrás captar toda la atención de los visitantes desde la página de inicio de la tienda.<br />
+Estas etiquetas también te permiten inspirar confianza en las fichas de los productos en cuestiones como los materiales empleados (&#8220;100 % algodón&#8221;, &#8220;oro macizo&#8221;, etc.) o el país de fabricación.</p>
+<p><strong>Lookbook</strong><br />
+Inspira a tus clientes ofreciéndoles una vista general de la composición de los productos.<br />
+El <a href="http://addons.prestashop.com/es/20150-lookbook-product-scenes.html" target="_blank">lookbook</a> te permite animar a los visitantes a comprar y, además, a incrementar el importe final del carrito logrando que los clientes compren más de un producto.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/las-nueve-funcionalidades-indispensables-de-una-tienda-online-de-moda-y-accesorios/">Las nueve funcionalidades indispensables de una tienda online de moda y accesorios</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/las-nueve-funcionalidades-indispensables-de-una-tienda-online-de-moda-y-accesorios/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inspiración UX: 3 razones por las que SABATILLELX ganó el Award “Mejor Experiencia de Usuario e-commerce”.</title>
+		<link>https://www.prestashop.com/blog/es/inspiracion-ux-3-razones-por-las-que-sabatillelx-gano-el-award-mejor-experiencia-de-usuario-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/es/inspiracion-ux-3-razones-por-las-que-sabatillelx-gano-el-award-mejor-experiencia-de-usuario-e-commerce/#comments</comments>
+		<pubDate>Tue, 21 Jun 2016 11:47:12 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[PrestaShop Awards]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14676</guid>
+		<description><![CDATA[<p>El pasado 12 de Mayo, durante el PrestaShop Day Madrid, tuvo lugar por primera vez la ceremonia de los PrestaShop Awards en España. Durante este momento de celebración, la comunidad española se reúne para premiar las mejores tiendas PrestaShop de nuestro país. ¿Los galardones? La mejor Experiencia de Usuario, el Concepto más Original y el [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/inspiracion-ux-3-razones-por-las-que-sabatillelx-gano-el-award-mejor-experiencia-de-usuario-e-commerce/">Inspiración UX: 3 razones por las que SABATILLELX ganó el Award “Mejor Experiencia de Usuario e-commerce”.</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong style="color: #2b2b2b">El pasado 12 de Mayo, durante el PrestaShop Day Madrid,</strong> tuvo lugar por primera vez la ceremonia de los PrestaShop Awards en España.</p>
+<p>Durante este momento de celebración, la comunidad española se reúne para premiar las mejores tiendas PrestaShop de nuestro país. ¿Los galardones? La mejor Experiencia de Usuario, el Concepto más Original y el Diseño más Insólito.<br />
+<span id="more-14676"></span><br />
+Comenzamos por analizar el ganador de la categoría “Mejor Experiencia de Usuario”. Este Award recompensa a <strong>la tienda con la mejor ergonomía y que ofrece una experiencia de usuario excelente.</strong></p>
+<p style="line-height: 0px;padding-top: 55px"><strong style="color: #251b5b">EL GANADOR: SABATILLELX</strong></p>
+<hr style="margin:0 0 25px" />
+<p><a title="Sabatillelx" href="http://www.sabatillelx.es/" target="_blank">Sabatillelx</a>, una palabra compuesta por &#8220;sabatille&#8221; que significa zapatilla y &#8220;elx&#8221;, el nombre de la ciudad de Elche (Alicante), en valenciano. Como su propio nombre indica, es una tienda online que vende zapatillas.</p>
+<p>Entre sus productos, encontramos desde la clásica zapatilla Inglesa de Lona, hasta las nuevas Botas Safari, con modelos disponibles para hombre, mujer y niños.</p>
+<p>El diseño de la tienda online está realizado por la<a title="Innova Deluxe" href="https://www.innovadeluxe.com/" target="_blank"> agencia Innovadeluxe</a> y a continación analizamos lo que más nos gustó de esta web.</p>
+<p style="line-height: 0px;padding-top: 55px"><strong style="color: #251b5b">LA EXPERIENCIA DE USUARIO DE SABATILLELX</strong></p>
+<hr style="margin:0 0 25px" />
+<h2 style="color: #251b5b"><span style="color: #25b9d7">①</span> Imágenes de espera</h2>
+<p>Una buena forma de contentar al usuario mientras espera que se carguen las imágenes de tus productos, es <strong>mostrar una previsualización del contenido que va a aparecer.</strong></p>
+<p><img class="aligncenter  wp-image-19370" style="border: 1px solid #dce1e5" title="Sabatillelx" alt="Sabatillelx" src="https://www.prestashop.com/blog/es/files/2016/06/preload-images.gif" width="657" height="400" /></p>
+<p>En este caso, la frustración por la espera y miedo al vacío desaparecen gracias a las fichas de producto que muestran iconos del producto precargados que se funden en la imagen de producto final una vez ésta está lista.</p>
+<h2 style="color: #251b5b;padding-top: 35px"><span style="color: #25b9d7">②</span> Menú ilustrado</h2>
+<p><img class="aligncenter  wp-image-19370" style="border: 1px solid #dce1e5" title="Sabatillelx" alt="Sabatillelx" src="https://www.prestashop.com/blog/es/files/2016/06/home-sabatillelx.jpg" width="657" height="400" /></p>
+<p>Un práctico menú ilustrado recibe a los visitantes, mostrando claramente desde el principio qué tipo de calzado aparecerá en cada sección.</p>
+<h2 style="color: #251b5b;padding-top: 35px"><span style="color: #25b9d7">③ </span>Selector de tallas dinámico</h2>
+<p><img class="aligncenter  wp-image-19370" style="border: 1px solid #dce1e5" title="Sabatillelx" alt="Sabatillelx" src="https://www.prestashop.com/blog/es/files/2016/06/selector-tallas-sabatillelx_2.gif" width="657" height="400" /></p>
+<p>Gracias a esta opción, un cliente buscando una talla concreta, gana unos cuantos segundos para encontrar la zapatilla que encaja con él.</p>
+<p>Además, ocultar los pares que no están disponibles <strong>reduce la decepción al saber de antemano qué tallas están disponibles.</strong></p>
+<p style="line-height: 0px;padding-top: 55px"><strong style="color: #251b5b">LOS NOMINADOS</strong></p>
+<hr style="margin:0 0 25px" />
+<p><strong>Si todavía buscas más inspiración en experiencia de usuario e-commerce,</strong> no dudes en visitar las páginas web del resto de nominados a esta categoría, <a title="Selfpackaging" href="http://selfpackaging.es/" target="_blank">SelfPackaging</a> y <a title="Farmacia Cuadrado" href="http://www.farmaciacuadrado.es/" target="_blank">Farmacia Cuadrado</a>. Ambos buenos ejemplos de buenas prácticas en UX y ergonomía.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/inspiracion-ux-3-razones-por-las-que-sabatillelx-gano-el-award-mejor-experiencia-de-usuario-e-commerce/">Inspiración UX: 3 razones por las que SABATILLELX ganó el Award “Mejor Experiencia de Usuario e-commerce”.</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/inspiracion-ux-3-razones-por-las-que-sabatillelx-gano-el-award-mejor-experiencia-de-usuario-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>3 pasos para ofrecer a tus clientes una experiencia personalizada en tu sitio web de e-commerce</title>
+		<link>https://www.prestashop.com/blog/es/3-pasos-para-ofrecer-tus-clientes-una-experiencia-personalizada-en-tu-sitio-web-de-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/es/3-pasos-para-ofrecer-tus-clientes-una-experiencia-personalizada-en-tu-sitio-web-de-e-commerce/#comments</comments>
+		<pubDate>Tue, 21 Jun 2016 07:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14634</guid>
+		<description><![CDATA[<p>El e-commerce es un sector cada vez más competitivo; los clientes comparan cada vez más los precios con unos ciclos de compra cada vez más largos y cada vez es más difícil y más caro atraer tráfico. Y lo que es más importante: los clientes tienen más poder que nunca. Ante este panorama, ¿cómo puedes [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/3-pasos-para-ofrecer-tus-clientes-una-experiencia-personalizada-en-tu-sitio-web-de-e-commerce/">3 pasos para ofrecer a tus clientes una experiencia personalizada en tu sitio web de e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>El e-commerce es un sector cada vez más competitivo; los clientes comparan cada vez más los precios con unos ciclos de compra cada vez más largos y cada vez es más difícil y más caro atraer tráfico. </p>
+<p>Y lo que es más importante: los clientes tienen más poder que nunca. Ante este panorama, ¿cómo puedes conseguir que tu tienda destaque entre la multitud? La respuesta es la personalización. En el vídeo de hoy, François Bouquet, director de desarrollo comercial para Francia de NOSTO, explica la importancia de escuchar a cada cliente para poder atraer, conseguir, mantener y optimizar el tráfico de tu sitio web. </p>
+<p><span id="more-14634"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/_z2Mwi1gem8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&#038;utm_medium=article&#038;utm_campaign=Youtube-launch&#038;utm_content=nosto" target="_blank"><i class="fa fa-youtube-play"></i> Ver más vídeos</a></div>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/3-pasos-para-ofrecer-tus-clientes-una-experiencia-personalizada-en-tu-sitio-web-de-e-commerce/">3 pasos para ofrecer a tus clientes una experiencia personalizada en tu sitio web de e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/3-pasos-para-ofrecer-tus-clientes-una-experiencia-personalizada-en-tu-sitio-web-de-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

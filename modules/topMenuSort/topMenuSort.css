@@ -1,0 +1,45 @@
+#orderSel {
+    height: 144px;
+}
+    #orderSel select {
+       
+    }
+    #orderSel .buttons {
+        float: right;
+        margin: 50px 0 0 10px;
+        width: 30px;
+    }
+        #orderSel .buttons input {
+            
+            margin-bottom: 5px;
+            width: 30px;
+            height: 30px;
+
+            text-indent: -1000em;
+
+                -moz-border-radius: 3px;
+                -webkit-border-radius: 3px;
+                -o-border-radius: 3px;
+                border-radius: 3px;
+
+            border: 1px solid #036;
+
+                -moz-box-shadow: inset 0 1px 0 #eee;
+                -webkit-box-shadow: inset 0 1px 0 #eee;
+                -o-box-shadow: inset 0 1px 0 #eee;
+                box-shadow: inset 0 1px 0 #eee;
+
+             background-color: #99CCFF;
+             background-repeat: no-repeat;
+             background-image: url(img/arrows.png);
+
+            cursor: pointer;
+
+        }
+
+        #orderSel .buttons input.up     { background-position: 50% 0;}
+        #orderSel .buttons input.down   { background-position: 50% 100%;}
+
+        #orderSel .buttons input:hover {
+            background-color: #bbb;
+        }

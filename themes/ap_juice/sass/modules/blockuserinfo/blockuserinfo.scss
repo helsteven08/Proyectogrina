@@ -1,0 +1,26 @@
+@import "compass";
+@import "theme_variables";
+
+
+.header_user_info{
+	.header_info{
+		position: absolute;
+		@include rtl-left(15px);
+		line-height: 40px;
+	}
+	.popup-title {display: none;}
+	ul {
+		> li {
+			position: relative;
+			@include rtl-padding(12px,15px,12px,0);
+			&:after {
+				position: absolute;
+				top: 11px;
+				content: "/";
+				color: #DDD;
+				font-size: 28px;
+				@include rtl-right(0);
+			}
+		}
+	}
+}
